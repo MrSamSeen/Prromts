@@ -1,0 +1,2246 @@
+[
+    {
+        "id": "1",
+        "title": "Creative Writing Assistant",
+        "category": "Writing",
+        "prompt": "Act as a creative writing assistant. Help me brainstorm plot twists for a mystery novel set in a futuristic Mars colony. Focus on psychological tension.",
+        "tags": [
+            "writing",
+            "creative",
+            "sci-fi"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Python Code Optimizer",
+        "category": "Coding",
+        "prompt": "Analyze the following Python code for performance bottlenecks and suggest idiomatic improvements using list comprehensions and generators where appropriate.",
+        "tags": [
+            "coding",
+            "python",
+            "optimization"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "SEO Blog Post Generator",
+        "category": "Marketing",
+        "prompt": "Write a comprehensive, SEO-optimized blog post about 'The Future of Sustainable Gardening'. Include h2 and h3 tags, and focus on keywords: organic, permaculture, urban farming.",
+        "tags": [
+            "marketing",
+            "seo",
+            "blogging"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Math Tutor",
+        "category": "Education",
+        "prompt": "Explain the concept of Eigenvectors and Eigenvalues to a high school student using real-world analogies, avoiding heavy jargon.",
+        "tags": [
+            "education",
+            "math",
+            "tutoring"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Golden Hour Portrait",
+        "category": "Portrait",
+        "prompt": "Hyper-realistic portrait of a young woman with freckles, bathed in golden hour sunlight, soft bokeh background of a park, shot on 85mm lens, f/1.8, high detail skin texture.",
+        "tags": [
+            "portrait",
+            "photography",
+            "female"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Urban Street Style Male",
+        "category": "Casual Men",
+        "prompt": "Full body shot of a stylish young man wearing an oversized beige hoodie and cargo pants, standing in a Tokyo alleyway at night, neon signs reflecting in puddles, cyberpunk vibe, cinematic lighting.",
+        "tags": [
+            "fashion",
+            "streetwear",
+            "urban"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Cozy Reading Nook",
+        "category": "Relaxing",
+        "prompt": "A cozy reading nook by a rainy window, knitted blanket, steaming cup of tea, open old book, warm ambient lighting, hygge atmosphere, photorealistic.",
+        "tags": [
+            "interior",
+            "cozy",
+            "home"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Corporate Executive Woman",
+        "category": "Formal Woman",
+        "prompt": "Professional headshot of a confident businesswoman in a sharp navy blue suit, modern glass office background, natural lighting, high definition, 8k resolution.",
+        "tags": [
+            "professional",
+            "business",
+            "corporate"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Tropical Beach Vacation",
+        "category": "Vacation",
+        "prompt": "Wide angle shot of a pristine white sand beach in Maldives, turquoise water, palm trees swaying, a hammock in the foreground, sunny clear sky, travel photography.",
+        "tags": [
+            "travel",
+            "beach",
+            "summer"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Cyberpunk Street Samurai",
+        "category": "Sci-Fi",
+        "prompt": "Futuristic female warrior with cybernetic arm, standing in rain-slicked neon street, holding a glowing katana, dynamic pose, detailed armor, volumetric fog, Unreal Engine 5 render.",
+        "tags": [
+            "scifi",
+            "cyberpunk",
+            "character"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Minimalist Coffee Shop",
+        "category": "Relaxing",
+        "prompt": "Interior of a minimalist coffee shop, japanese design, light wood furniture, concrete walls, soft morning light streaming through large windows, latte art on table.",
+        "tags": [
+            "interior",
+            "minimalism",
+            "coffee"
+        ]
+    },
+    {
+        "id": "12",
+        "title": "Casual Coffee Date",
+        "category": "Casual Girl",
+        "prompt": "Candid shot of a smiling girl in a chunky knit sweater holding a coffee cup, sitting at an outdoor cafe in Paris, autumn leaves in background, natural lighting.",
+        "tags": [
+            "casual",
+            "lifestyle",
+            "autumn"
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Tuxedo Gala Event",
+        "category": "Formal Men",
+        "prompt": "Elegant man in a classic black tuxedo adjusting his cufflinks, luxury ballroom background with chandeliers, cinematic depth of field, sophisticated atmosphere.",
+        "tags": [
+            "fashion",
+            "formal",
+            "luxury"
+        ]
+    },
+    {
+        "id": "14",
+        "title": "Elderly Wisdom",
+        "category": "Portrait",
+        "prompt": "Close-up black and white portrait of an elderly man with deep wrinkles and a white beard, intense eyes, high contrast, dramatic lighting, capturing wisdom and time.",
+        "tags": [
+            "portrait",
+            "bw",
+            "artistic"
+        ]
+    },
+    {
+        "id": "15",
+        "title": "Alpine Hiker",
+        "category": "Vacation",
+        "prompt": "Back view of a hiker standing on a mountain peak looking over a valley of clouds, jagged snowy peaks, sunrise, adventure photography, epic scale.",
+        "tags": [
+            "travel",
+            "nature",
+            "adventure"
+        ]
+    },
+    {
+        "id": "16",
+        "title": "Vintage Film Girl",
+        "category": "Casual Girl",
+        "prompt": "Girl with messy bun wearing a vintage t-shirt and denim shorts, leaning against a classic convertible car, sunset, shot on Kodak Portra 400, film grain.",
+        "tags": [
+            "vintage",
+            "film",
+            "retro"
+        ]
+    },
+    {
+        "id": "17",
+        "title": "Study Lo-Fi Vibes",
+        "category": "Relaxing",
+        "prompt": "Anime style lo-fi room, girl studying at desk, night time city view through window, rain on glass, cluttered but cozy, purple and blue neon aesthetic.",
+        "tags": [
+            "anime",
+            "lofi",
+            "art"
+        ]
+    },
+    {
+        "id": "18",
+        "title": "Architectural Abstract",
+        "category": "Artistic",
+        "prompt": "Abstract architectural photography, geometric shapes of a modern white building against a deep blue sky, strong shadows, minimalism.",
+        "tags": [
+            "architecture",
+            "abstract",
+            "minimal"
+        ]
+    },
+    {
+        "id": "19",
+        "title": "Business Meeting",
+        "category": "Formal Men",
+        "prompt": "Group of diverse businessmen in suits discussing around a conference table, modern boardroom, bright natural light, professional environment.",
+        "tags": [
+            "business",
+            "office",
+            "corporate"
+        ]
+    },
+    {
+        "id": "20",
+        "title": "Boho Chic Festival",
+        "category": "Casual Girl",
+        "prompt": "Full body shot of a girl in boho chic dress and flower crown dancing at a music festival, sunset flare, confetti in air, vibrant colors, energetic vibe.",
+        "tags": [
+            "fashion",
+            "festival",
+            "boho"
+        ]
+    },
+    {
+        "id": "21",
+        "title": "Rainy City Commute",
+        "category": "Casual Men",
+        "prompt": "Man in a trench coat walking with a black umbrella in heavy rain, NYC street, reflections on wet asphalt, moody atmosphere, cinematic color grading.",
+        "tags": [
+            "urban",
+            "moody",
+            "street"
+        ]
+    },
+    {
+        "id": "22",
+        "title": "Luxury Spa Day",
+        "category": "Relaxing",
+        "prompt": "Serene spa setting, massage table with white towels, orchid flowers, essential oils, bamboo plants, soft candlelight, zen atmosphere, high key lighting.",
+        "tags": [
+            "spa",
+            "wellness",
+            "luxury"
+        ]
+    },
+    {
+        "id": "23",
+        "title": "Double Exposure Nature",
+        "category": "Artistic",
+        "prompt": "Double exposure art of a woman's profile silhouette merged with a pine forest and starry night sky, surreal, dreamy, watercolor style.",
+        "tags": [
+            "art",
+            "surreal",
+            "nature"
+        ]
+    },
+    {
+        "id": "24",
+        "title": "Red Carpet Glamour",
+        "category": "Formal Woman",
+        "prompt": "Woman in a sparkling red evening gown posing on a red carpet, flashes of cameras, glamorous makeup, elegant updo hair, celebrity style.",
+        "tags": [
+            "fashion",
+            "glamour",
+            "event"
+        ]
+    },
+    {
+        "id": "25",
+        "title": "Skater Boy",
+        "category": "Casual Men",
+        "prompt": "Action shot of a skater doing a kickflip over a set of stairs, fisheye lens, sunny day, california vibe, dynamic angle.",
+        "tags": [
+            "sports",
+            "skateboarding",
+            "action"
+        ]
+    },
+    {
+        "id": "26",
+        "title": "Camping Under Stars",
+        "category": "Vacation",
+        "prompt": "Orange tent glowing from inside at night, campfire burning, milky way galaxy visible in the sky above, pine trees, long exposure photography.",
+        "tags": [
+            "camping",
+            "nature",
+            "night"
+        ]
+    },
+    {
+        "id": "27",
+        "title": "Studio Portrait Lighting",
+        "category": "Portrait",
+        "prompt": "Studio portrait of a model with vitiligo, rembrandt lighting, dark grey background, intense gaze, raw beauty, 4k detail.",
+        "tags": [
+            "studio",
+            "portrait",
+            "diversity"
+        ]
+    },
+    {
+        "id": "28",
+        "title": "Fantasy Elf Queen",
+        "category": "Sci-Fi",
+        "prompt": "Ethereal elf queen with long silver hair and intricate gold jewelry, standing in a magical bioluminescent forest, magical particles, digital painting style.",
+        "tags": [
+            "fantasy",
+            "art",
+            "magic"
+        ]
+    },
+    {
+        "id": "29",
+        "title": "Road Trip Vibes",
+        "category": "Vacation",
+        "prompt": "View from inside a vintage van driving down Route 66, desert landscape outside, guitar on the seat, map on dashboard, freedom concept.",
+        "tags": [
+            "travel",
+            "roadtrip",
+            "vintage"
+        ]
+    },
+    {
+        "id": "30",
+        "title": "Tech Startup Office",
+        "category": "Casual Men",
+        "prompt": "Young developer with glasses sitting at a standing desk with multiple monitors, coding, open plan office with bean bags, casual attire, modern workspace.",
+        "tags": [
+            "tech",
+            "office",
+            "startup"
+        ]
+    },
+    {
+        "id": "31",
+        "title": "Yoga by the Lake",
+        "category": "Relaxing",
+        "prompt": "Woman doing yoga on a wooden dock by a calm misty lake at sunrise, peaceful, reflection in water, soft pastel colors.",
+        "tags": [
+            "yoga",
+            "wellness",
+            "nature"
+        ]
+    },
+    {
+        "id": "32",
+        "title": "Autumn Park Walk",
+        "category": "Casual Girl",
+        "prompt": "Girl in a beige trench coat and scarf walking a golden retriever in a park covered in orange leaves, overcast soft light.",
+        "tags": [
+            "autumn",
+            "lifestyle",
+            "pets"
+        ]
+    },
+    {
+        "id": "33",
+        "title": "CEO Presentation",
+        "category": "Formal Men",
+        "prompt": "Charismatic man in a grey suit giving a presentation on stage, spotlight, blurred audience in background, TED talk vibe.",
+        "tags": [
+            "business",
+            "speaking",
+            "leadership"
+        ]
+    },
+    {
+        "id": "34",
+        "title": "Macro Eye",
+        "category": "Portrait",
+        "prompt": "Extreme macro shot of a blue human eye, detailed iris texture, reflection of a window in the pupil, high contrast, scientific detail.",
+        "tags": [
+            "macro",
+            "photography",
+            "eye"
+        ]
+    },
+    {
+        "id": "35",
+        "title": "Santorini Sunset",
+        "category": "Vacation",
+        "prompt": "Classic view of Oia, Santorini, white buildings with blue domes, pink and orange sunset sky, sea in background, romantic travel destination.",
+        "tags": [
+            "travel",
+            "greece",
+            "landscape"
+        ]
+    },
+    {
+        "id": "36",
+        "title": "Street Musician",
+        "category": "Casual Men",
+        "prompt": "Street musician playing acoustic guitar in a subway station, hat on ground with coins, motion blur of passing people, gritty urban realism.",
+        "tags": [
+            "music",
+            "urban",
+            "street"
+        ]
+    },
+    {
+        "id": "37",
+        "title": "Cat in Sunlight",
+        "category": "Relaxing",
+        "prompt": "Fluffy ginger cat sleeping on a windowsill, sunbeams highlighting dust motes, potted plants nearby, peaceful afternoon atmosphere.",
+        "tags": [
+            "animals",
+            "cat",
+            "cute"
+        ]
+    },
+    {
+        "id": "38",
+        "title": "Winter Fashion",
+        "category": "Casual Girl",
+        "prompt": "Girl wearing a white puffer jacket and ear muffs, snowing heavily, city lights blurring in background, holding hot chocolate, winter wonderland.",
+        "tags": [
+            "winter",
+            "fashion",
+            "snow"
+        ]
+    },
+    {
+        "id": "39",
+        "title": "Lawyer in Court",
+        "category": "Formal Woman",
+        "prompt": "Female lawyer in a black blazer standing in a courtroom, serious expression, wood paneling background, dramatic legal drama lighting.",
+        "tags": [
+            "legal",
+            "professional",
+            "drama"
+        ]
+    },
+    {
+        "id": "40",
+        "title": "Neon Noir Detective",
+        "category": "Sci-Fi",
+        "prompt": "Silhouette of a detective smoking a cigarette under a neon sign in a rainy futuristic city, trench coat, fedora, mystery, cinematic composition.",
+        "tags": [
+            "noir",
+            "cyberpunk",
+            "mystery"
+        ]
+    },
+    {
+        "id": "41",
+        "title": "Family Picnic",
+        "category": "Relaxing",
+        "prompt": "Happy family having a picnic on a checkered blanket in a meadow, eating sandwiches, laughing, sunny day, vibrant green grass.",
+        "tags": [
+            "family",
+            "lifestyle",
+            "summer"
+        ]
+    },
+    {
+        "id": "42",
+        "title": "Barista at Work",
+        "category": "Casual Men",
+        "prompt": "Hipster barista with tattoos and apron pouring latte art, steam rising, espresso machine, warm coffee shop interior.",
+        "tags": [
+            "coffee",
+            "work",
+            "lifestyle"
+        ]
+    },
+    {
+        "id": "43",
+        "title": "Professor in Library",
+        "category": "Formal Men",
+        "prompt": "Older male professor with glasses and tweed jacket reading a book in an old library, rows of books, ladder, dark academia aesthetic.",
+        "tags": [
+            "academic",
+            "library",
+            "vintage"
+        ]
+    },
+    {
+        "id": "44",
+        "title": "Underwater Coral Reef",
+        "category": "Nature",
+        "prompt": "Vibrant underwater scene of a coral reef, clownfish, clear blue water, sun rays penetrating the surface, national geographic style.",
+        "tags": [
+            "underwater",
+            "nature",
+            "ocean"
+        ]
+    },
+    {
+        "id": "45",
+        "title": "Gym Workout",
+        "category": "Casual Girl",
+        "prompt": "Fit girl in sportswear tying her shoelaces in a gym, focus on sneakers, blurred gym equipment in background, motivational vibe.",
+        "tags": [
+            "fitness",
+            "gym",
+            "sport"
+        ]
+    },
+    {
+        "id": "46",
+        "title": "Abstract Fluid Art",
+        "category": "Artistic",
+        "prompt": "Liquid marble texture, swirling gold, black and white acrylic paint, macro photography, abstract background.",
+        "tags": [
+            "abstract",
+            "texture",
+            "art"
+        ]
+    },
+    {
+        "id": "47",
+        "title": "Gamer Setup",
+        "category": "Relaxing",
+        "prompt": "High-end PC gaming setup, RGB lighting, dual monitors displaying game menu, mechanical keyboard, dark room.",
+        "tags": [
+            "gaming",
+            "tech",
+            "room"
+        ]
+    },
+    {
+        "id": "48",
+        "title": "Doctor in Hospital",
+        "category": "Formal Woman",
+        "prompt": "Female doctor in white coat with stethoscope, walking down a hospital corridor, clean, bright, medical environment.",
+        "tags": [
+            "medical",
+            "doctor",
+            "health"
+        ]
+    },
+    {
+        "id": "49",
+        "title": "Venice Canals",
+        "category": "Vacation",
+        "prompt": "Gondola ride in Venice canals, narrow waterways between old buildings, flowers on balconies, sunny Italian afternoon.",
+        "tags": [
+            "travel",
+            "italy",
+            "romantic"
+        ]
+    },
+    {
+        "id": "50",
+        "title": "Cybernetic Implant",
+        "category": "Sci-Fi",
+        "prompt": "Close up of a human eye with digital data overlays and cybernetic iris, hud interface, blue and techy.",
+        "tags": [
+            "scifi",
+            "tech",
+            "cyber"
+        ]
+    },
+    {
+        "id": "51",
+        "title": "Skincare Routine",
+        "category": "Casual Girl",
+        "prompt": "Girl in bathrobe applying face mask in front of bathroom mirror, clean aesthetic, marble counter, skincare products.",
+        "tags": [
+            "beauty",
+            "skincare",
+            "lifestyle"
+        ]
+    },
+    {
+        "id": "52",
+        "title": "Chef Plating Food",
+        "category": "Formal Men",
+        "prompt": "Professional chef in whites delicately placing a garnish on a gourmet dish, focused expression, stainless steel kitchen, culinary art.",
+        "tags": [
+            "food",
+            "chef",
+            "cooking"
+        ]
+    },
+    {
+        "id": "53",
+        "title": "Desert Festival",
+        "category": "Vacation",
+        "prompt": "Burning man style festival, large art installation in desert, attendees in costumes, dust storm, sunset, mad max vibe.",
+        "tags": [
+            "festival",
+            "art",
+            "desert"
+        ]
+    },
+    {
+        "id": "54",
+        "title": "Rainforest Waterfall",
+        "category": "Nature",
+        "prompt": "Majestic waterfall deep in a lush green rainforest, mist rising, tropical plants, long exposure for silky water.",
+        "tags": [
+            "nature",
+            "waterfall",
+            "landscape"
+        ]
+    },
+    {
+        "id": "55",
+        "title": "Vintage Vinyl Record",
+        "category": "Relaxing",
+        "prompt": "Close up of a record player needle on a vinyl disc, warm lighting, nostalgic music vibe, wood grain texture.",
+        "tags": [
+            "music",
+            "vintage",
+            "retro"
+        ]
+    },
+    {
+        "id": "56",
+        "title": "Fashion Week Runway",
+        "category": "Formal Woman",
+        "prompt": "High fashion model walking the runway, avant-garde outfit, intense lighting, audience in darkness, vogue style.",
+        "tags": [
+            "fashion",
+            "runway",
+            "model"
+        ]
+    },
+    {
+        "id": "57",
+        "title": "Surfer at Dawn",
+        "category": "Casual Men",
+        "prompt": "Surfer walking towards the ocean carrying a surfboard, silhouette against the rising sun, waves crashing, calm morning.",
+        "tags": [
+            "surf",
+            "beach",
+            "sport"
+        ]
+    },
+    {
+        "id": "58",
+        "title": "Steampunk Inventor",
+        "category": "Sci-Fi",
+        "prompt": "Portrait of an inventor with brass goggles and leather apron, holding a glowing gear device, workshop background, steampunk aesthetic.",
+        "tags": [
+            "steampunk",
+            "fantasy",
+            "character"
+        ]
+    },
+    {
+        "id": "59",
+        "title": "Garden Tea Party",
+        "category": "Relaxing",
+        "prompt": "Elegant tea set on a lace tablecloth in a blooming english garden, pastries, dappled sunlight, pastel colors.",
+        "tags": [
+            "food",
+            "garden",
+            "vintage"
+        ]
+    },
+    {
+        "id": "60",
+        "title": "Architect at Site",
+        "category": "Formal Men",
+        "prompt": "Male architect in blazer and hard hat holding blueprints at a construction site, skeletal steel structure in background.",
+        "tags": [
+            "construction",
+            "architecture",
+            "work"
+        ]
+    },
+    {
+        "id": "61",
+        "title": "Space Nebula",
+        "category": "Nature",
+        "prompt": "Deep space nebula, colorful clouds of gas and dust, purple and gold, millions of stars, hubble telescope style.",
+        "tags": [
+            "space",
+            "cosmos",
+            "universe"
+        ]
+    },
+    {
+        "id": "62",
+        "title": "Library Studying",
+        "category": "Casual Girl",
+        "prompt": "Student girl with glasses surrounded by stacks of books in a library, looking stressed but focused, coffee cup, laptop.",
+        "tags": [
+            "education",
+            "study",
+            "student"
+        ]
+    },
+    {
+        "id": "63",
+        "title": "Wedding Couple",
+        "category": "Formal Woman",
+        "prompt": "Bride and Groom portrait, bride in lace dress, groom in suit, forehead to forehead, sunset background, romantic lighting.",
+        "tags": [
+            "wedding",
+            "love",
+            "romance"
+        ]
+    },
+    {
+        "id": "64",
+        "title": "Graffiti Artist",
+        "category": "Casual Men",
+        "prompt": "Artist spraying colorful graffiti on a brick wall, wearing a mask and hoodie, paint cans on floor, street art culture.",
+        "tags": [
+            "art",
+            "street",
+            "urban"
+        ]
+    },
+    {
+        "id": "65",
+        "title": "Cabin in Snow",
+        "category": "Vacation",
+        "prompt": "A-frame wooden cabin in a snowy forest, smoke from chimney, warm yellow light from windows, twilight blue sky.",
+        "tags": [
+            "winter",
+            "cabin",
+            "travel"
+        ]
+    },
+    {
+        "id": "66",
+        "title": "Abstract Smoke",
+        "category": "Artistic",
+        "prompt": "Swirling colored smoke against black background, pink and cyan gradient, fluid forms, mystery.",
+        "tags": [
+            "abstract",
+            "smoke",
+            "color"
+        ]
+    },
+    {
+        "id": "67",
+        "title": "Journaling",
+        "category": "Relaxing",
+        "prompt": "Top down view of a hand writing in a leather journal, fountain pen, glasses, dried flowers, rustic wood desk.",
+        "tags": [
+            "writing",
+            "hobby",
+            "flatlay"
+        ]
+    },
+    {
+        "id": "68",
+        "title": "Pilot in Cockpit",
+        "category": "Formal Men",
+        "prompt": "Airline pilot in uniform sitting in cockpit, hands on controls, clouds visible through windshield, professional demeanor.",
+        "tags": [
+            "aviation",
+            "pilot",
+            "job"
+        ]
+    },
+    {
+        "id": "69",
+        "title": "Flower Market",
+        "category": "Casual Girl",
+        "prompt": "Girl holding a large bouquet of tulips at a flower market, smiling, rows of colorful flowers, spring vibe.",
+        "tags": [
+            "flowers",
+            "spring",
+            "happy"
+        ]
+    },
+    {
+        "id": "70",
+        "title": "Robot Portrait",
+        "category": "Sci-Fi",
+        "prompt": "Portrait of a humanoid robot with porcelain skin and visible mechanical joints, sorrowful expression, artificial intelligence concept.",
+        "tags": [
+            "robot",
+            "ai",
+            "scifi"
+        ]
+    },
+    {
+        "id": "71",
+        "title": "Safari Jeep",
+        "category": "Vacation",
+        "prompt": "Safari jeep driving through African savanna, elephants in distance, acacia tree, golden lighting, dust trail.",
+        "tags": [
+            "wildlife",
+            "safari",
+            "travel"
+        ]
+    },
+    {
+        "id": "72",
+        "title": "Podcast Host",
+        "category": "Casual Men",
+        "prompt": "Man wearing headphones speaking into a professional microphone, soundproofing foam on walls, recording studio.",
+        "tags": [
+            "audio",
+            "podcast",
+            "media"
+        ]
+    },
+    {
+        "id": "73",
+        "title": "Real Estate Agent",
+        "category": "Formal Woman",
+        "prompt": "Smiling female real estate agent leaning against a 'For Sale' sign in front of a modern suburban house.",
+        "tags": [
+            "realestate",
+            "business",
+            "house"
+        ]
+    },
+    {
+        "id": "74",
+        "title": "Mountain Lake Reflection",
+        "category": "Nature",
+        "prompt": "Crystal clear mountain lake reflecting the surrounding peaks and pine forest, stillness, pebbles visible at bottom.",
+        "tags": [
+            "nature",
+            "landscape",
+            "peace"
+        ]
+    },
+    {
+        "id": "75",
+        "title": "Bath Bomb Art",
+        "category": "Relaxing",
+        "prompt": "Colorful bath bomb dissolving in water, swirls of pink and purple, foam, luxurious bath time.",
+        "tags": [
+            "bath",
+            "color",
+            "relax"
+        ]
+    },
+    {
+        "id": "76",
+        "title": "Summer Festival",
+        "category": "Casual Girl",
+        "prompt": "Girl with glitter makeup on shoulders sitting on grass at outdoor concert, crowd in background, sunny, carefree.",
+        "tags": [
+            "summer",
+            "music",
+            "youth"
+        ]
+    },
+    {
+        "id": "77",
+        "title": "Banker Counting Money",
+        "category": "Formal Men",
+        "prompt": "Serious man in pinstripe suit counting stack of money, bank vault background, wealth and finance concept.",
+        "tags": [
+            "money",
+            "finance",
+            "business"
+        ]
+    },
+    {
+        "id": "78",
+        "title": "Futuristic Cityscape",
+        "category": "Sci-Fi",
+        "prompt": "Aerial view of a mega-city in year 3000, flying cars, towering skyscrapers connected by bridges, neon lights, night.",
+        "tags": [
+            "city",
+            "future",
+            "scifi"
+        ]
+    },
+    {
+        "id": "79",
+        "title": "Artist Studio",
+        "category": "Artistic",
+        "prompt": "Messy artist studio, canvases everywhere, paint splattered floor, artist painting near window, creative chaos.",
+        "tags": [
+            "art",
+            "studio",
+            "painting"
+        ]
+    },
+    {
+        "id": "80",
+        "title": "Train Travel",
+        "category": "Vacation",
+        "prompt": "View out of a train window, blur of green countryside passing by, reflection of passenger in glass, journey concept.",
+        "tags": [
+            "travel",
+            "train",
+            "landscape"
+        ]
+    },
+    {
+        "id": "81",
+        "title": "Morning Jog",
+        "category": "Casual Men",
+        "prompt": "Man jogging on a city promenade at sunrise, wearing athletic gear, sweat, headphones, healthy lifestyle.",
+        "tags": [
+            "fitness",
+            "running",
+            "health"
+        ]
+    },
+    {
+        "id": "82",
+        "title": "News Anchor",
+        "category": "Formal Woman",
+        "prompt": "Female news anchor sitting at desk, breaking news graphic behind, studio lighting, professional makeup and hair.",
+        "tags": [
+            "news",
+            "tv",
+            "media"
+        ]
+    },
+    {
+        "id": "83",
+        "title": "Camping Fire",
+        "category": "Relaxing",
+        "prompt": "Close up of a campfire crackling, marshmallows on sticks, hands warming by the fire, dark night, sparks flying.",
+        "tags": [
+            "fire",
+            "camping",
+            "warmth"
+        ]
+    },
+    {
+        "id": "84",
+        "title": "Cherry Blossoms",
+        "category": "Nature",
+        "prompt": "Path lined with blooming cherry blossom trees in Japan, petals falling like snow, soft pink atmosphere.",
+        "tags": [
+            "flowers",
+            "japan",
+            "nature"
+        ]
+    },
+    {
+        "id": "85",
+        "title": "Skate Park Hangout",
+        "category": "Casual Girl",
+        "prompt": "Cool girl sitting on a skateboard ramp, wearing oversized tee and beanie, graffiti background, fisheye lens.",
+        "tags": [
+            "urban",
+            "skate",
+            "style"
+        ]
+    },
+    {
+        "id": "86",
+        "title": "Musician on Stage",
+        "category": "Formal Men",
+        "prompt": "Violinist in tuxedo playing solo on stage, dramatic spotlight, rest of orchestra in shadow, intense emotion.",
+        "tags": [
+            "music",
+            "concert",
+            "art"
+        ]
+    },
+    {
+        "id": "87",
+        "title": "Alien Planet",
+        "category": "Sci-Fi",
+        "prompt": "Landscape of an alien planet with red grass and two moons in the sky, strange rock formations, sci-fi concept art.",
+        "tags": [
+            "space",
+            "alien",
+            "fantasy"
+        ]
+    },
+    {
+        "id": "88",
+        "title": "Airport Departure",
+        "category": "Vacation",
+        "prompt": "Person looking at departure board in busy airport terminal, holding passport and suitcase, anticipation of travel.",
+        "tags": [
+            "travel",
+            "airport",
+            "flying"
+        ]
+    },
+    {
+        "id": "89",
+        "title": "Cooking Pasta",
+        "category": "Casual Men",
+        "prompt": "Man in kitchen tossing pasta in a pan, home cooking, ingredients on counter, warm lighting, domestic vibe.",
+        "tags": [
+            "cooking",
+            "food",
+            "home"
+        ]
+    },
+    {
+        "id": "90",
+        "title": "Diplomat Handshake",
+        "category": "Formal Woman",
+        "prompt": "Two women politicians shaking hands in front of flags, press cameras flashing, diplomatic meeting.",
+        "tags": [
+            "politics",
+            "news",
+            "event"
+        ]
+    },
+    {
+        "id": "91",
+        "title": "Rainy Window",
+        "category": "Relaxing",
+        "prompt": "Raindrops racing down a window pane, blurred city lights in background, blue and orange bokeh, melancholic mood.",
+        "tags": [
+            "rain",
+            " mood",
+            "abstract"
+        ]
+    },
+    {
+        "id": "92",
+        "title": "Desert Dunes",
+        "category": "Nature",
+        "prompt": "Endless sand dunes in Sahara desert, ripples in sand, sharp shadows at sunset, golden landscape.",
+        "tags": [
+            "desert",
+            "nature",
+            "hot"
+        ]
+    },
+    {
+        "id": "93",
+        "title": "Grocery Shopping",
+        "category": "Casual Girl",
+        "prompt": "Girl pushing a cart in a supermarket, reaching for cereal looking cheerful, bright aisle lights.",
+        "tags": [
+            "shopping",
+            "lifestyle",
+            "food"
+        ]
+    },
+    {
+        "id": "94",
+        "title": "Stock Broker",
+        "category": "Formal Men",
+        "prompt": "Stressed man in suit on phone, shouting, multiple screens showing stock charts crashing, wall street floor.",
+        "tags": [
+            "finance",
+            "stocks",
+            "chaos"
+        ]
+    },
+    {
+        "id": "95",
+        "title": "Cybernetic City Life",
+        "category": "Sci-Fi",
+        "prompt": "Street food vendor robot serving noodles to humans in a neon-lit cyberpunk alley, steam, rain, detail.",
+        "tags": [
+            "cyberpunk",
+            "food",
+            "future"
+        ]
+    },
+    {
+        "id": "96",
+        "title": "Postcard from Paris",
+        "category": "Vacation",
+        "prompt": "Eiffel tower view from a balcony with breakfast croissant and coffee, sunny morning, classic parisian aesthetic.",
+        "tags": [
+            "paris",
+            "travel",
+            "food"
+        ]
+    },
+    {
+        "id": "97",
+        "title": "Dog Walk",
+        "category": "Casual Men",
+        "prompt": "Man walking a bulldog on a city sidewalk, casual denim jacket, sunny afternoon, urban lifestyle.",
+        "tags": [
+            "dog",
+            "city",
+            "walk"
+        ]
+    },
+    {
+        "id": "98",
+        "title": "CEO Portrait",
+        "category": "Formal Woman",
+        "prompt": "Portrait of a mature female CEO in a white suit, arms crossed, confident smile, office skyline background.",
+        "tags": [
+            "business",
+            "portrait",
+            "leader"
+        ]
+    },
+    {
+        "id": "99",
+        "title": "Candlelit Bath",
+        "category": "Relaxing",
+        "prompt": "Luxury bathtub filled with bubbles, dozens of candles around, glass of wine, dim lighting, romantic setting.",
+        "tags": [
+            "bath",
+            "romance",
+            "relax"
+        ]
+    },
+    {
+        "id": "100",
+        "title": "Lightning Storm",
+        "category": "Nature",
+        "prompt": "Dramatic lightning strike over a dark ocean, storm clouds, rough waves, power of nature.",
+        "tags": [
+            "weather",
+            "storm",
+            "ocean"
+        ]
+    },
+    {
+        "id": "101",
+        "title": "Bike Ride",
+        "category": "Casual Girl",
+        "prompt": "Girl riding a vintage bicycle with a basket of flowers through a country lane, sundress, wind in hair.",
+        "tags": [
+            "summer",
+            "bike",
+            "nature"
+        ]
+    },
+    {
+        "id": "102",
+        "title": "Gala Host",
+        "category": "Formal Men",
+        "prompt": "Man in white dinner jacket holding a champagne glass, mingling at a high society party, lights, blur.",
+        "tags": [
+            "party",
+            "luxury",
+            "social"
+        ]
+    },
+    {
+        "id": "103",
+        "title": "Holo-Console",
+        "category": "Sci-Fi",
+        "prompt": "Person using a holographic touch interface floating in mid-air, blue light illuminating face, futuristic technology.",
+        "tags": [
+            "tech",
+            "future",
+            "hologram"
+        ]
+    },
+    {
+        "id": "104",
+        "title": "Cruise Ship Deck",
+        "category": "Vacation",
+        "prompt": "View from majesty cruise ship deck, pool chairs, vast ocean, sunset, drink with umbrella.",
+        "tags": [
+            "cruise",
+            "travel",
+            "ocean"
+        ]
+    },
+    {
+        "id": "105",
+        "title": "Snowy Cabin Interior",
+        "category": "Relaxing",
+        "prompt": "Inside a cozy wooden cabin, fireplace glowing, wool rug, view of snowing forest through window, hot cocoa on table.",
+        "tags": [
+            "winter",
+            "cozy",
+            "cabin"
+        ]
+    },
+    {
+        "id": "106",
+        "title": "Cyberpunk Hacker",
+        "category": "Sci-Fi",
+        "prompt": "Hooded figure sitting in a dark room surrounded by multiple screens with green code cascading, neon lighting, intense focus.",
+        "tags": [
+            "hacker",
+            "cyberpunk",
+            "code"
+        ]
+    },
+    {
+        "id": "107",
+        "title": "Portrait of a Sailor",
+        "category": "Portrait",
+        "prompt": "Weather-beaten face of an old sailor, staring into the distance, sea spray in background, dramatic lighting, detailed beard texture.",
+        "tags": [
+            "portrait",
+            "sea",
+            "character"
+        ]
+    },
+    {
+        "id": "108",
+        "title": "Field of Sunflowers",
+        "category": "Nature",
+        "prompt": "Endless field of bright yellow sunflowers under a deep blue sky, bees flying, vibrant colors, summer day.",
+        "tags": [
+            "nature",
+            "flowers",
+            "summer"
+        ]
+    },
+    {
+        "id": "109",
+        "title": "Street Basketball",
+        "category": "Casual Men",
+        "prompt": "Group of guys playing basketball on an urban court, chain link fence, graffiti, dynamic jump shot, sunset.",
+        "tags": [
+            "sports",
+            "urban",
+            "basketball"
+        ]
+    },
+    {
+        "id": "110",
+        "title": "Elegant Ballerina",
+        "category": "Artistic",
+        "prompt": "Ballerina in white tutu performing a leap on a dark stage, spotlight, dust motes dancing in light, graceful motion.",
+        "tags": [
+            "dance",
+            "ballet",
+            "art"
+        ]
+    },
+    {
+        "id": "111",
+        "title": "Tropical Island Drone",
+        "category": "Vacation",
+        "prompt": "Top-down drone shot of a small tropical island surrounded by clear turquoise water, coral reefs visible, isolated paradise.",
+        "tags": [
+            "travel",
+            "drone",
+            "island"
+        ]
+    },
+    {
+        "id": "112",
+        "title": "Business Handshake",
+        "category": "Formal Men",
+        "prompt": "Close up of two businessmen shaking hands in a modern office, blurry city skyline in background, professional attire.",
+        "tags": [
+            "business",
+            "corporate",
+            "deal"
+        ]
+    },
+    {
+        "id": "113",
+        "title": "Reading in Park",
+        "category": "Casual Girl",
+        "prompt": "Girl lying on a picnic blanket in a park reading a book, dappled sunlight through trees, peaceful afternoon.",
+        "tags": [
+            "relax",
+            "reading",
+            "summer"
+        ]
+    },
+    {
+        "id": "114",
+        "title": "Futuristic Car Race",
+        "category": "Sci-Fi",
+        "prompt": "High speed race of hovering futuristic cars on a neon track loop, motion blur, sparks, adrenaline.",
+        "tags": [
+            "scifi",
+            "cars",
+            "racing"
+        ]
+    },
+    {
+        "id": "115",
+        "title": "Misty Forest Path",
+        "category": "Nature",
+        "prompt": "Mysterious path winding through a dense foggy forest, tall pine trees, soft diffused light, eerie atmosphere.",
+        "tags": [
+            "nature",
+            "forest",
+            "fog"
+        ]
+    },
+    {
+        "id": "116",
+        "title": "Coffee Shop Laptop",
+        "category": "Casual Men",
+        "prompt": "Man working on a laptop in a busy coffee shop, headphones on, coffee cup next to him, blurred background.",
+        "tags": [
+            "work",
+            "coffee",
+            "lifestyle"
+        ]
+    },
+    {
+        "id": "117",
+        "title": "Red Dress Tango",
+        "category": "Formal Woman",
+        "prompt": "Woman in a flowing red dress dancing tango with a partner, dramatic lighting, passion, movement blur.",
+        "tags": [
+            "dance",
+            "fashion",
+            "art"
+        ]
+    },
+    {
+        "id": "118",
+        "title": "Meditating Monk",
+        "category": "Relaxing",
+        "prompt": "Buddhist monk meditating in a mountain temple, sunrise, peaceful expression, orange robes, incense smoke.",
+        "tags": [
+            "meditation",
+            "peace",
+            "spirituality"
+        ]
+    },
+    {
+        "id": "119",
+        "title": "Underwater Turtle",
+        "category": "Nature",
+        "prompt": "Sea turtle swimming gracefully underwater, sun rays filtering down, colorful coral reef below, clear blue water.",
+        "tags": [
+            "ocean",
+            "animal",
+            "nature"
+        ]
+    },
+    {
+        "id": "120",
+        "title": "Cyberpunk Market",
+        "category": "Sci-Fi",
+        "prompt": "Bustling market in a cyberpunk city, vendors selling strange tech parts, neon signs in foreign languages, rain.",
+        "tags": [
+            "scifi",
+            "city",
+            "market"
+        ]
+    },
+    {
+        "id": "121",
+        "title": "Wedding Cake",
+        "category": "Formal Woman",
+        "prompt": "Close up of an intricate multi-tiered wedding cake with sugar flowers, soft lighting, elegant reception setting.",
+        "tags": [
+            "wedding",
+            "food",
+            "details"
+        ]
+    },
+    {
+        "id": "122",
+        "title": "Surfer Waiting",
+        "category": "Casual Men",
+        "prompt": "Surfer sitting on his board in the ocean, looking at the horizon, waiting for a wave, golden hour light.",
+        "tags": [
+            "surf",
+            "ocean",
+            "sport"
+        ]
+    },
+    {
+        "id": "123",
+        "title": "Abstract Geometric",
+        "category": "Artistic",
+        "prompt": "3D render of floating geometric shapes, cubes and spheres, matte pastel colors, soft shadows, minimalist background.",
+        "tags": [
+            "abstract",
+            "3d",
+            "design"
+        ]
+    },
+    {
+        "id": "124",
+        "title": "Camping Coffee",
+        "category": "Vacation",
+        "prompt": "Metal mug of coffee steaming on a log by a lake, tent in background, early morning mist, camping vibes.",
+        "tags": [
+            "camping",
+            "coffee",
+            "morning"
+        ]
+    },
+    {
+        "id": "125",
+        "title": "Painting at Easel",
+        "category": "Casual Girl",
+        "prompt": "Girl with paint on her face standing at an easel, focused on painting, sunlit studio, creative atmosphere.",
+        "tags": [
+            "art",
+            "painting",
+            "hobby"
+        ]
+    },
+    {
+        "id": "126",
+        "title": "Corporate Handshake",
+        "category": "Formal Men",
+        "prompt": "Two men in suits shaking hands in front of a glass office building, low angle shot, blue sky reflection.",
+        "tags": [
+            "business",
+            "success",
+            "city"
+        ]
+    },
+    {
+        "id": "127",
+        "title": "Galaxy Spiral",
+        "category": "Nature",
+        "prompt": "Spiral galaxy in deep space, arms of stars and dust, violet and blue hues, cosmic scale.",
+        "tags": [
+            "space",
+            "galaxy",
+            "stars"
+        ]
+    },
+    {
+        "id": "128",
+        "title": "Spa Massage",
+        "category": "Relaxing",
+        "prompt": "Woman lying face down on a massage table, spa setting, candles, hot stones on back, relaxation.",
+        "tags": [
+            "spa",
+            "wellness",
+            "massage"
+        ]
+    },
+    {
+        "id": "129",
+        "title": "Steampunk Airship",
+        "category": "Sci-Fi",
+        "prompt": "Giant steampunk airship floating over a victorian city, brass gears, steam clouds, sunset sky.",
+        "tags": [
+            "steampunk",
+            "fantasy",
+            "vehicle"
+        ]
+    },
+    {
+        "id": "130",
+        "title": "Hiking Trail",
+        "category": "Vacation",
+        "prompt": "First person view of hiking boots on a rocky trail, mountain range in distance, wildflowers, adventure.",
+        "tags": [
+            "hiking",
+            "travel",
+            "nature"
+        ]
+    },
+    {
+        "id": "131",
+        "title": "Guitar Player",
+        "category": "Casual Men",
+        "prompt": "Close up of hands playing an acoustic guitar, worn fretboard, warm lighting, music vibe.",
+        "tags": [
+            "music",
+            "guitar",
+            "hobby"
+        ]
+    },
+    {
+        "id": "132",
+        "title": "Fashion Editorial",
+        "category": "Formal Woman",
+        "prompt": "Fashion model posing in an avant-garde outfit in a desert landscape, stark contrast, high fashion photography.",
+        "tags": [
+            "fashion",
+            "art",
+            "model"
+        ]
+    },
+    {
+        "id": "133",
+        "title": "Rainy Cafe Window",
+        "category": "Relaxing",
+        "prompt": "View looking out of a cafe window at rainy street, cup of coffee on table, condensation, cozy interior.",
+        "tags": [
+            "rain",
+            "coffee",
+            "mood"
+        ]
+    },
+    {
+        "id": "134",
+        "title": "Lion Portrait",
+        "category": "Nature",
+        "prompt": "Majestic male lion portrait, wind blowing mane, savanna background, golden hour lighting, wildlife photography.",
+        "tags": [
+            "animal",
+            "wildlife",
+            "africa"
+        ]
+    },
+    {
+        "id": "135",
+        "title": "Skateboarding Trick",
+        "category": "Casual Girl",
+        "prompt": "Girl skateboarder doing an idlie, mid-air, skate park background, dynamic action shot.",
+        "tags": [
+            "skate",
+            "sport",
+            "action"
+        ]
+    },
+    {
+        "id": "136",
+        "title": "Architectural Drawing",
+        "category": "Formal Men",
+        "prompt": "Architect's hands sketching a building design with a pencil, ruler and compass on desk, detailed blueprint.",
+        "tags": [
+            "architecture",
+            "drawing",
+            "work"
+        ]
+    },
+    {
+        "id": "137",
+        "title": "Space Station",
+        "category": "Sci-Fi",
+        "prompt": "Futuristic space station orbiting earth, solar panels, earth curvature in background, realistic sci-fi.",
+        "tags": [
+            "space",
+            "scifi",
+            "tech"
+        ]
+    },
+    {
+        "id": "138",
+        "title": "Beach Bonfire",
+        "category": "Vacation",
+        "prompt": "Group of friends sitting around a bonfire on the beach at night, laughing, guitar, sparks rising, stars.",
+        "tags": [
+            "beach",
+            "party",
+            "friends"
+        ]
+    },
+    {
+        "id": "139",
+        "title": "Dog playing Fetch",
+        "category": "Casual Men",
+        "prompt": "Man throwing a frisbee for a border collie in a park, action shot, dog jumping, green grass.",
+        "tags": [
+            "dog",
+            "play",
+            "park"
+        ]
+    },
+    {
+        "id": "140",
+        "title": "Opera Singer",
+        "category": "Formal Woman",
+        "prompt": "Opera singer on stage in dramatic gown, singing with emotion, dark background, spotlight.",
+        "tags": [
+            "music",
+            "opera",
+            "performance"
+        ]
+    },
+    {
+        "id": "141",
+        "title": "Hammock Nap",
+        "category": "Relaxing",
+        "prompt": "POV looking down at feet in a hammock strung between palm trees, ocean view, book resting on lap.",
+        "tags": [
+            "relax",
+            "beach",
+            "vacation"
+        ]
+    },
+    {
+        "id": "142",
+        "title": "Northern Lights",
+        "category": "Nature",
+        "prompt": "Aurora borealis lighting up the night sky green and purple over a snowy landscape, stars, reflection in lake.",
+        "tags": [
+            "nature",
+            "aurora",
+            "night"
+        ]
+    },
+    {
+        "id": "143",
+        "title": "Shopping Spree",
+        "category": "Casual Girl",
+        "prompt": "Girl walking down city street carrying many shopping bags, smiling, sunglasses, chic outfit.",
+        "tags": [
+            "shopping",
+            "bashion",
+            "city"
+        ]
+    },
+    {
+        "id": "144",
+        "title": "Boardroom Presentation",
+        "category": "Formal Men",
+        "prompt": "Man pointing at a chart during a boardroom presentation, colleagues listening, professional office setting.",
+        "tags": [
+            "business",
+            "office",
+            "meeting"
+        ]
+    },
+    {
+        "id": "145",
+        "title": "Cyborg Portrait",
+        "category": "Sci-Fi",
+        "prompt": "Portrait of a woman with half-face cyborg plating, glowing blue lines, metallic skin texture, futuristic.",
+        "tags": [
+            "scifi",
+            "cyborg",
+            "portrait"
+        ]
+    },
+    {
+        "id": "146",
+        "title": "Road Trip Map",
+        "category": "Vacation",
+        "prompt": "Hands holding a physical map against a steering wheel, windshield view of open highway, travel planning.",
+        "tags": [
+            "travel",
+            "roadtrip",
+            "driving"
+        ]
+    },
+    {
+        "id": "147",
+        "title": "Gardening",
+        "category": "Casual Men",
+        "prompt": "Man kneeling in garden planting vegetables, wearing gloves and hat, sunlight, soil texture.",
+        "tags": [
+            "garden",
+            "hobby",
+            "nature"
+        ]
+    },
+    {
+        "id": "148",
+        "title": "Violinist",
+        "category": "Formal Woman",
+        "prompt": "Female violinist in black evening dress playing violin, focused expression, dark background, classical music.",
+        "tags": [
+            "music",
+            "violin",
+            "classical"
+        ]
+    },
+    {
+        "id": "149",
+        "title": "Bubble Bath",
+        "category": "Relaxing",
+        "prompt": "Feet sticking out of a bubble bath, view of tiled bathroom, candles, book, relaxing evening.",
+        "tags": [
+            "bath",
+            "relax",
+            "home"
+        ]
+    },
+    {
+        "id": "150",
+        "title": "Macro Flower",
+        "category": "Nature",
+        "prompt": "Macro shot of a dew drop on a rose petal, refraction of light, soft pastel colors, detailed texture.",
+        "tags": [
+            "flower",
+            "macro",
+            "nature"
+        ]
+    },
+    {
+        "id": "151",
+        "title": "Coffee Date",
+        "category": "Casual Girl",
+        "prompt": "Girl laughing across a cafe table, holding a latte, blurred partner in foreground, intimate atmosphere.",
+        "tags": [
+            "date",
+            "coffee",
+            "love"
+        ]
+    },
+    {
+        "id": "152",
+        "title": "Lawyer Desk",
+        "category": "Formal Men",
+        "prompt": "Man in suit sitting at a large mahogany desk, reviewing legal documents, library background, serious.",
+        "tags": [
+            "law",
+            "office",
+            "work"
+        ]
+    },
+    {
+        "id": "153",
+        "title": "Neon Street Rain",
+        "category": "Sci-Fi",
+        "prompt": "Cyberpunk street at night, neon signs reflecting on wet pavement, people with glowing umbrellas, cinematic.",
+        "tags": [
+            "cyberpunk",
+            "neon",
+            "rain"
+        ]
+    },
+    {
+        "id": "154",
+        "title": "Hotel Balcony",
+        "category": "Vacation",
+        "prompt": "Breakfast set up on a hotel balcony overlooking the ocean, orange juice, croissants, sunny morning.",
+        "tags": [
+            "travel",
+            "hotel",
+            "food"
+        ]
+    },
+    {
+        "id": "155",
+        "title": "Bike Mechanic",
+        "category": "Casual Men",
+        "prompt": "Man working on a motorcycle in a garage, grease on hands, tools scattered, vintage bike.",
+        "tags": [
+            "mechanic",
+            "work",
+            "bike"
+        ]
+    },
+    {
+        "id": "156",
+        "title": "TED Talk Speaker",
+        "category": "Formal Woman",
+        "prompt": "Woman on stage giving a speech, headset microphone, gesturing, dark background with spotlight.",
+        "tags": [
+            "speech",
+            "leader",
+            "event"
+        ]
+    },
+    {
+        "id": "157",
+        "title": "Cat Nap",
+        "category": "Relaxing",
+        "prompt": "Two cats sleeping curled up together on a soft blanket, sunlight hitting them, peaceful.",
+        "tags": [
+            "cats",
+            "pets",
+            "sleep"
+        ]
+    },
+    {
+        "id": "158",
+        "title": "Mountain Peak",
+        "category": "Nature",
+        "prompt": "Sun rising over jagged snowy mountain peaks, pink and orange sky, alpine glow, majestic landscape.",
+        "tags": [
+            "mountain",
+            "nature",
+            "landscape"
+        ]
+    },
+    {
+        "id": "159",
+        "title": "Selfie in Mirror",
+        "category": "Casual Girl",
+        "prompt": "Girl taking a mirror selfie in a cute outfit, messy room background, ring light reflection.",
+        "tags": [
+            "selfie",
+            "fashion",
+            "social"
+        ]
+    },
+    {
+        "id": "160",
+        "title": "Stock Exchange",
+        "category": "Formal Men",
+        "prompt": "Busy trading floor, men in suits shouting and signaling, screens with red and green numbers, chaotic energy.",
+        "tags": [
+            "finance",
+            "stocks",
+            "business"
+        ]
+    },
+    {
+        "id": "161",
+        "title": "Robot Pet",
+        "category": "Sci-Fi",
+        "prompt": "Cute robotic dog playing fetch with a child in a futuristic park, metal and plastic, happy atmosphere.",
+        "tags": [
+            "robot",
+            "scifi",
+            "future"
+        ]
+    },
+    {
+        "id": "162",
+        "title": "Passport Stamp",
+        "category": "Vacation",
+        "prompt": "Close up of a hand stamping a passport, travel documents on table, adventure awaits.",
+        "tags": [
+            "travel",
+            "passport",
+            "airport"
+        ]
+    },
+    {
+        "id": "163",
+        "title": "Pizza Night",
+        "category": "Casual Men",
+        "prompt": "Group of guys eating pizza and watching sports on TV, beer bottles, casual living room setting.",
+        "tags": [
+            "food",
+            "friends",
+            "home"
+        ]
+    },
+    {
+        "id": "164",
+        "title": "Ballet Practice",
+        "category": "Formal Woman",
+        "prompt": "Ballerina practicing at the barre in a dance studio, wearing leotard, mirror reflection, focused.",
+        "tags": [
+            "dance",
+            "ballet",
+            "practice"
+        ]
+    },
+    {
+        "id": "165",
+        "title": "Knitting",
+        "category": "Relaxing",
+        "prompt": "Close up of hands knitting a chunky scarf, wool yarn, warm lighting, cozy hobby.",
+        "tags": [
+            "knitting",
+            "hobby",
+            "craft"
+        ]
+    },
+    {
+        "id": "166",
+        "title": "Autumn Forest",
+        "category": "Nature",
+        "prompt": "Forest floor covered in red and orange leaves, trees with changing colors, soft sunlight filtering through.",
+        "tags": [
+            "autumn",
+            "nature",
+            "forest"
+        ]
+    },
+    {
+        "id": "167",
+        "title": "Festival Crowd",
+        "category": "Casual Girl",
+        "prompt": "Girl on shoulders in a music festival crowd, hands in air, stage lights in background, confetti.",
+        "tags": [
+            "music",
+            "festival",
+            "party"
+        ]
+    },
+    {
+        "id": "168",
+        "title": "Wine Tasting",
+        "category": "Formal Men",
+        "prompt": "Man holding a wine glass up to light, inspecting color, vineyard background, sophisticated.",
+        "tags": [
+            "wine",
+            "luxury",
+            "tasting"
+        ]
+    },
+    {
+        "id": "169",
+        "title": "Flying Car",
+        "category": "Sci-Fi",
+        "prompt": "Sleek flying car zooming between skyscrapers, motion blur, futuristic city, sunset.",
+        "tags": [
+            "scifi",
+            "car",
+            "future"
+        ]
+    },
+    {
+        "id": "170",
+        "title": "Convertible Drive",
+        "category": "Vacation",
+        "prompt": "Driving a convertible car along a coastal road, wind in hair, ocean view, sunny day.",
+        "tags": [
+            "travel",
+            "car",
+            "summer"
+        ]
+    },
+    {
+        "id": "171",
+        "title": "Fishing",
+        "category": "Casual Men",
+        "prompt": "Man fishing on a calm lake at dawn, mist on water, holding rod, peaceful reflection.",
+        "tags": [
+            "fishing",
+            "lake",
+            "nature"
+        ]
+    },
+    {
+        "id": "172",
+        "title": "Doctor Portrait",
+        "category": "Formal Woman",
+        "prompt": "Close up portrait of a female doctor, smiling, hospital background, compassionate expression.",
+        "tags": [
+            "medical",
+            "doctor",
+            "health"
+        ]
+    },
+    {
+        "id": "173",
+        "title": "Meditation Room",
+        "category": "Relaxing",
+        "prompt": "Minimalist meditation room, cushion on floor, incense burning, soft natural light, plants.",
+        "tags": [
+            "meditation",
+            "zen",
+            "home"
+        ]
+    },
+    {
+        "id": "174",
+        "title": "Butterfly on Flower",
+        "category": "Nature",
+        "prompt": "Colorful butterfly resting on a purple flower, macro shot, blurred green background.",
+        "tags": [
+            "insect",
+            "nature",
+            "macro"
+        ]
+    },
+    {
+        "id": "175",
+        "title": "Ice Cream",
+        "category": "Casual Girl",
+        "prompt": "Girl holding a melting ice cream cone on a boardwalk, beach in background, summer vibe.",
+        "tags": [
+            "food",
+            "summer",
+            "beach"
+        ]
+    },
+    {
+        "id": "176",
+        "title": "Suit Tailor",
+        "category": "Formal Men",
+        "prompt": "Tailor measuring a man for a bespoke suit, tape measure, fabric swatches, atelier background.",
+        "tags": [
+            "fashion",
+            "suit",
+            "work"
+        ]
+    },
+    {
+        "id": "177",
+        "title": "Virtual Reality",
+        "category": "Sci-Fi",
+        "prompt": "Person wearing VR headset, reaching out to touch invisible objects, neon lighting, futuristic.",
+        "tags": [
+            "vr",
+            "tech",
+            "gaming"
+        ]
+    },
+    {
+        "id": "178",
+        "title": "Luxury Yacht",
+        "category": "Vacation",
+        "prompt": "Aerial view of a luxury yacht anchored in clear blue water, sunbathing deck, lifestyle of the rich.",
+        "tags": [
+            "boat",
+            "luxury",
+            "ocean"
+        ]
+    },
+    {
+        "id": "179",
+        "title": "BBQ Grilling",
+        "category": "Casual Men",
+        "prompt": "Man grilling burgers on a BBQ in backyard, smoke, apron, friends in background, summer party.",
+        "tags": [
+            "food",
+            "bbq",
+            "summer"
+        ]
+    },
+    {
+        "id": "180",
+        "title": "Piano Recital",
+        "category": "Formal Woman",
+        "prompt": "Woman playing a grand piano on stage, spotlight, reflection on piano lid, elegant evening gown.",
+        "tags": [
+            "music",
+            "piano",
+            "concert"
+        ]
+    },
+    {
+        "id": "181",
+        "title": "Reading by Fire",
+        "category": "Relaxing",
+        "prompt": "Feet in wool socks resting on coffee table in front of fireplace, open book, hot cocoa.",
+        "tags": [
+            "winter",
+            "reading",
+            "cozy"
+        ]
+    },
+    {
+        "id": "182",
+        "title": "Waterfall Long Exposure",
+        "category": "Nature",
+        "prompt": "Silky water flowing over mossy rocks in a stream, long exposure, lush green forest.",
+        "tags": [
+            "water",
+            "nature",
+            "forest"
+        ]
+    },
+    {
+        "id": "183",
+        "title": "Karaoke Night",
+        "category": "Casual Girl",
+        "prompt": "Girl singing into a microphone at a karaoke bar, neon lights, laughing friends, fun atmosphere.",
+        "tags": [
+            "music",
+            "party",
+            "night"
+        ]
+    },
+    {
+        "id": "184",
+        "title": "Executive Desk",
+        "category": "Formal Men",
+        "prompt": "Man sitting behind a large desk in a corner office, panoramic city view, signing papers.",
+        "tags": [
+            "business",
+            "office",
+            "boss"
+        ]
+    },
+    {
+        "id": "185",
+        "title": "Android Assistant",
+        "category": "Sci-Fi",
+        "prompt": "Helpful android robot handing a tablet to a human, clean white design, futuristic home.",
+        "tags": [
+            "robot",
+            "scifi",
+            "home"
+        ]
+    },
+    {
+        "id": "186",
+        "title": "Skiing Action",
+        "category": "Vacation",
+        "prompt": "Skier carving through fresh powder snow, sunny blue sky, mountains in background, action shot.",
+        "tags": [
+            "ski",
+            "snow",
+            "sport"
+        ]
+    },
+    {
+        "id": "187",
+        "title": "Bartender",
+        "category": "Casual Men",
+        "prompt": "Bartender mixing a cocktail in a shaker, motion blur, dimly lit bar, bottles in background.",
+        "tags": [
+            "drink",
+            "bar",
+            "work"
+        ]
+    },
+    {
+        "id": "188",
+        "title": "Gallery Opening",
+        "category": "Formal Woman",
+        "prompt": "Woman viewing a painting in an art gallery, holding wine glass, elegant dress, sophisticated.",
+        "tags": [
+            "art",
+            "gallery",
+            "event"
+        ]
+    },
+    {
+        "id": "189",
+        "title": "Prototyping",
+        "category": "Coding",
+        "prompt": "Create a Python script using Streamlit to prototype a data visualization dashboard for sales data. Include charts for monthly revenue and top products.",
+        "tags": [
+            "coding",
+            "python",
+            "data"
+        ]
+    },
+    {
+        "id": "190",
+        "title": "Fantasy Novel Outline",
+        "category": "Writing",
+        "prompt": "Outline a high fantasy novel where magic is based on music. Describe the protagonist, the antagonist, and the main conflict.",
+        "tags": [
+            "writing",
+            "fantasy",
+            "creative"
+        ]
+    },
+    {
+        "id": "191",
+        "title": "Email Campaign",
+        "category": "Marketing",
+        "prompt": "Draft a 3-part email welcome series for a new subscription box service for pet owners. Focus on building community and showcasing value.",
+        "tags": [
+            "marketing",
+            "email",
+            "copywriting"
+        ]
+    },
+    {
+        "id": "192",
+        "title": "React Component",
+        "category": "Coding",
+        "prompt": "Write a React functional component for a reusable Modal with a backdrop, close button, and transition animations using CSS modules.",
+        "tags": [
+            "coding",
+            "react",
+            "frontend"
+        ]
+    },
+    {
+        "id": "193",
+        "title": "Short Story Prompt",
+        "category": "Writing",
+        "prompt": "Write a short story about a time traveler who gets stuck in 1999 and decides to start a blog about the future.",
+        "tags": [
+            "writing",
+            "scifi",
+            "story"
+        ]
+    },
+    {
+        "id": "194",
+        "title": "Social Media Calendar",
+        "category": "Marketing",
+        "prompt": "Create a one-week social media content calendar for a local bakery launching a new line of vegan donuts. Include post ideas for Instagram and TikTok.",
+        "tags": [
+            "marketing",
+            "social",
+            "plan"
+        ]
+    },
+    {
+        "id": "195",
+        "title": "SQL Query Help",
+        "category": "Coding",
+        "prompt": "Write a complex SQL query to find the top 3 customers by total spend in the last month, joining customers and orders tables.",
+        "tags": [
+            "coding",
+            "sql",
+            "database"
+        ]
+    },
+    {
+        "id": "196",
+        "title": "Character Description",
+        "category": "Writing",
+        "prompt": "Write a detailed character description for a rogue detective who is afraid of the dark. Focus on sensory details and mannerisms.",
+        "tags": [
+            "writing",
+            "character",
+            "creative"
+        ]
+    },
+    {
+        "id": "197",
+        "title": "Product Description",
+        "category": "Marketing",
+        "prompt": "Write a compelling product description for a noise-cancelling headphone. Highlight features like battery life and comfort for travelers.",
+        "tags": [
+            "marketing",
+            "copywriting",
+            "sales"
+        ]
+    },
+    {
+        "id": "198",
+        "title": "Algorithm Explanation",
+        "category": "Education",
+        "prompt": "Explain the A* search algorithm to a beginner computer science student. Use diagrams (text-based) and a simple pathfinding example.",
+        "tags": [
+            "education",
+            "cs",
+            "algorithm"
+        ]
+    },
+    {
+        "id": "199",
+        "title": "API Documentation",
+        "category": "Writing",
+        "prompt": "Write API documentation for a 'User Login' endpoint. Include request parameters, response body examples, and error codes.",
+        "tags": [
+            "writing",
+            "tech",
+            "docs"
+        ]
+    },
+    {
+        "id": "200",
+        "title": "Instagram Captions",
+        "category": "Marketing",
+        "prompt": "Generate 5 punny Instagram captions for a coffee shop's fall menu launch. Include relevant hashtags.",
+        "tags": [
+            "marketing",
+            "social",
+            "copy"
+        ]
+    },
+    {
+        "id": "201",
+        "title": "CSS Grid Layout",
+        "category": "Coding",
+        "prompt": "Create a responsive image gallery layout using CSS Grid. It should have 3 columns on desktop, 2 on tablet, and 1 on mobile.",
+        "tags": [
+            "coding",
+            "css",
+            "web"
+        ]
+    },
+    {
+        "id": "202",
+        "title": "Dialogue Practice",
+        "category": "Writing",
+        "prompt": "Write a dialogue between two strangers stuck in an elevator. One is optimistic, the other is claustrophobic.",
+        "tags": [
+            "writing",
+            "dialogue",
+            "practice"
+        ]
+    },
+    {
+        "id": "203",
+        "title": "Landing Page Copy",
+        "category": "Marketing",
+        "prompt": "Write the headline and subheadline for a landing page selling a productivity course for freelancers. Focus on the benefit of saving time.",
+        "tags": [
+            "marketing",
+            "landingpage",
+            "copy"
+        ]
+    },
+    {
+        "id": "204",
+        "title": "Regex Help",
+        "category": "Coding",
+        "prompt": "Write a Regular Expression to validate a standard credit card number (16 digits, grouped or not). Explain how it works.",
+        "tags": [
+            "coding",
+            "regex",
+            "dev"
+        ]
+    }
+]
