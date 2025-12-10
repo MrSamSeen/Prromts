@@ -2242,5 +2242,4805 @@
             "regex",
             "dev"
         ]
+    },
+    {
+        "id": "205",
+        "title": "Text Integration: Lion",
+        "category": "General",
+        "prompt": "A photorealistic image of a transparent glass sculpture of a lion in an underwater obsidian palace. Graffiti on the wall spelling out 'HOPE'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "206",
+        "title": "Text Integration: Picnic",
+        "category": "General",
+        "prompt": "A photorealistic image of a family of robots having a picnic in a floating island in the clouds. Graffiti on the wall spelling out 'HOPE'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "pixel"
+        ]
+    },
+    {
+        "id": "207",
+        "title": "Retro A Goggles",
+        "category": "Text Rendering",
+        "prompt": "retro comic book style of a polar bear wearing steampunk goggles meditating in mid-air in a cozy cottage in a snowy forest.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "pixel"
+        ]
+    },
+    {
+        "id": "208",
+        "title": "3D A Light",
+        "category": "Portrait",
+        "prompt": "3D animation of a musician playing an instrument made of light playing a violin in a victorian greenhouse.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "retro"
+        ]
+    },
+    {
+        "id": "209",
+        "title": "Text Integration: Ingredients",
+        "category": "General",
+        "prompt": "A photorealistic image of a chef preparing a dish of floating ingredients in a victorian greenhouse. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "210",
+        "title": "Portrait City",
+        "category": "Product",
+        "prompt": "portrait of a diver discovering a sunken technological city. lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "low"
+        ]
+    },
+    {
+        "id": "211",
+        "title": "Fisheye Lens Gears",
+        "category": "Text Rendering",
+        "prompt": "fisheye lens of a steampunk owl with brass gears. high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "212",
+        "title": "Text Integration: Smoke",
+        "category": "General",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a serene zen garden in space. A poster on the wall with the text 'TRAVEL TO MARS'. Cinematic color grading with muted teal tones",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "3d"
+        ]
+    },
+    {
+        "id": "213",
+        "title": "Cinematic A Life",
+        "category": "Diagram",
+        "prompt": "a vintage typewriter coming to life casting a magical spell in a floating island in the clouds. Shot with shallow depth of field (f/1.8). studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "claymation"
+        ]
+    },
+    {
+        "id": "214",
+        "title": "Vaporwave A Life",
+        "category": "General",
+        "prompt": "vaporwave of a vintage typewriter coming to life painting a portal to another world in a floating island in the clouds. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "215",
+        "title": "Cinematic A Lilies",
+        "category": "Portrait",
+        "prompt": "a samurai standing in a field of red spider lilies painting a portal to another world in a serene zen garden in space. Shot with neon rim lighting. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "3d"
+        ]
+    },
+    {
+        "id": "216",
+        "title": "Macro Photography Lilies",
+        "category": "Product",
+        "prompt": "macro photography of a samurai standing in a field of red spider lilies. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vector"
+        ]
+    },
+    {
+        "id": "217",
+        "title": "Photorealistic A Picnic",
+        "category": "Product",
+        "prompt": "photorealistic of a family of robots having a picnic watching a binary sunset in a neon-lit cyberpunk alleyway.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "218",
+        "title": "Cinematic A City",
+        "category": "Portrait",
+        "prompt": "a diver discovering a sunken technological city climbing a digital mountain in a futuristic cafe on Mars. Shot with high contrast black and white. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "219",
+        "title": "Fisheye Lens Grimoire",
+        "category": "Portrait",
+        "prompt": "fisheye lens of a wizard reading a holographic grimoire. volumetric fog and god rays.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "pixel"
+        ]
+    },
+    {
+        "id": "220",
+        "title": "Text Integration: Air",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a bioluminescent jellyfish floating in air in a neon-lit cyberpunk alleyway. The word 'MAGIC' written in sparkling dust.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "oil"
+        ]
+    },
+    {
+        "id": "221",
+        "title": "Cinematic A Hoverbike",
+        "category": "Product",
+        "prompt": "a futuristic racer on a hoverbike meditating in mid-air in a post-apocalyptic overgrown city. Shot with soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "oil"
+        ]
+    },
+    {
+        "id": "222",
+        "title": "Ukiyo-E A Hoverbike",
+        "category": "Text Rendering",
+        "prompt": "ukiyo-e woodblock print of a futuristic racer on a hoverbike dancing in the rain in a high-tech laboratory.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "3d"
+        ]
+    },
+    {
+        "id": "223",
+        "title": "Isometric View Lion",
+        "category": "General",
+        "prompt": "isometric view of a transparent glass sculpture of a lion. Golden hour backlighting creating long shadows. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "224",
+        "title": "Bird'S Eye View Clue",
+        "category": "General",
+        "prompt": "bird's eye view of a detective examining a glowing clue. high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "225",
+        "title": "Over-The-Shoulder Shot Ingredients",
+        "category": "General",
+        "prompt": "over-the-shoulder shot of a chef preparing a dish of floating ingredients. neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "low"
+        ]
+    },
+    {
+        "id": "226",
+        "title": "Text Integration: Lion",
+        "category": "Product",
+        "prompt": "A photorealistic image of a transparent glass sculpture of a lion in a floating island in the clouds. A speech bubble saying 'Hello World'. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "227",
+        "title": "Cinematic A Leaves",
+        "category": "Landscape",
+        "prompt": "a mystical tree with crystal leaves serving customers in a high-tech laboratory. Shot with volumetric fog and god rays. Cinematic color grading with muted teal tones",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "pixel"
+        ]
+    },
+    {
+        "id": "228",
+        "title": "Macro Photography Lion",
+        "category": "General",
+        "prompt": "macro photography of a transparent glass sculpture of a lion. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "229",
+        "title": "Vector A Optics",
+        "category": "General",
+        "prompt": "vector art of a stoic robot barista with glowing blue optics playing a violin in a serene zen garden in space. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "230",
+        "title": "Over-The-Shoulder Shot Life",
+        "category": "Diagram",
+        "prompt": "over-the-shoulder shot of a vintage typewriter coming to life. Cinematic color grading with muted teal tones. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "1990s"
+        ]
+    },
+    {
+        "id": "231",
+        "title": "Cinematic A Grimoire",
+        "category": "Portrait",
+        "prompt": "a wizard reading a holographic grimoire brewing a cup of coffee in a floating island in the clouds. Shot with Cinematic color grading with muted teal tones. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "claymation"
+        ]
+    },
+    {
+        "id": "232",
+        "title": "Bird'S Eye View Hat",
+        "category": "Portrait",
+        "prompt": "bird's eye view of a fluffy calico cat wearing a tiny wizard hat. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "studio"
+        ]
+    },
+    {
+        "id": "233",
+        "title": "Cinematic A Hat",
+        "category": "Landscape",
+        "prompt": "cinematic concept art of a fluffy calico cat wearing a tiny wizard hat painting a portal to another world in an underwater obsidian palace.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vector"
+        ]
+    },
+    {
+        "id": "234",
+        "title": "Blueprint A Leaves",
+        "category": "General",
+        "prompt": "blueprint schematic of a mystical tree with crystal leaves meditating in mid-air in a cozy cottage in a snowy forest.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "low"
+        ]
+    },
+    {
+        "id": "235",
+        "title": "Photorealistic A Clue",
+        "category": "Text Rendering",
+        "prompt": "photorealistic of a detective examining a glowing clue serving customers in the surface of a glitched computer screen.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "studio"
+        ]
+    },
+    {
+        "id": "236",
+        "title": "Cinematic A Smoke",
+        "category": "Text Rendering",
+        "prompt": "a dragon made of swirling smoke serving customers in a serene zen garden in space. Shot with studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "3d"
+        ]
+    },
+    {
+        "id": "237",
+        "title": "Text Integration: City",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a diver discovering a sunken technological city in the surface of a glitched computer screen. The brand name 'NANO' embossed on the product. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "238",
+        "title": "Photorealistic A Grimoire",
+        "category": "Landscape",
+        "prompt": "photorealistic of a wizard reading a holographic grimoire dancing in the rain in a serene zen garden in space.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "claymation"
+        ]
+    },
+    {
+        "id": "239",
+        "title": "Watercolor A Life",
+        "category": "Portrait",
+        "prompt": "watercolor painting of a vintage typewriter coming to life dancing in the rain in a sun-drenched meadow at golden hour. Cinematic color grading with muted teal tones",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "pixel"
+        ]
+    },
+    {
+        "id": "240",
+        "title": "Wide Shot Hat",
+        "category": "Product",
+        "prompt": "wide shot of a fluffy calico cat wearing a tiny wizard hat. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "film"
+        ]
+    },
+    {
+        "id": "241",
+        "title": "Extreme Close-Up Lion",
+        "category": "Portrait",
+        "prompt": "extreme close-up of a transparent glass sculpture of a lion. neon rim lighting. soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "studio"
+        ]
+    },
+    {
+        "id": "242",
+        "title": "Macro Photography Alien",
+        "category": "Diagram",
+        "prompt": "macro photography of an astronaut playing chess with an alien. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "243",
+        "title": "Macro Photography Lion",
+        "category": "Product",
+        "prompt": "macro photography of a transparent glass sculpture of a lion. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vector"
+        ]
+    },
+    {
+        "id": "244",
+        "title": "Isometric View Picnic",
+        "category": "General",
+        "prompt": "isometric view of a family of robots having a picnic. dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "oil"
+        ]
+    },
+    {
+        "id": "245",
+        "title": "Claymation A Lion",
+        "category": "Portrait",
+        "prompt": "claymation of a transparent glass sculpture of a lion creating a holographic map in a futuristic cafe on Mars.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "retro"
+        ]
+    },
+    {
+        "id": "246",
+        "title": "Text Integration: Smoke",
+        "category": "Product",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a cozy cottage in a snowy forest. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "pixel"
+        ]
+    },
+    {
+        "id": "247",
+        "title": "Text Integration: Life",
+        "category": "General",
+        "prompt": "A photorealistic image of a vintage typewriter coming to life in the surface of a glitched computer screen. Label 'FIG 1.1' next to the diagram.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "film"
+        ]
+    },
+    {
+        "id": "248",
+        "title": "Cinematic A Lightbulb",
+        "category": "Portrait",
+        "prompt": "a miniature city inside a lightbulb reading an ancient scroll in a futuristic cafe on Mars. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "1990s"
+        ]
+    },
+    {
+        "id": "249",
+        "title": "Claymation A Life",
+        "category": "Diagram",
+        "prompt": "claymation of a vintage typewriter coming to life meditating in mid-air in a neon-lit cyberpunk alleyway.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "250",
+        "title": "Isometric View Goggles",
+        "category": "General",
+        "prompt": "isometric view of a polar bear wearing steampunk goggles. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "1990s"
+        ]
+    },
+    {
+        "id": "251",
+        "title": "Cyberpunk A Light",
+        "category": "Landscape",
+        "prompt": "cyberpunk aesthetic of a musician playing an instrument made of light painting a portal to another world in a futuristic cafe on Mars.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "252",
+        "title": "Dutch Angle Picnic",
+        "category": "General",
+        "prompt": "dutch angle of a family of robots having a picnic. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "253",
+        "title": "Cinematic A Lightbulb",
+        "category": "Diagram",
+        "prompt": "a miniature city inside a lightbulb creating a holographic map in a neon-lit cyberpunk alleyway. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "254",
+        "title": "1990S A Leaves",
+        "category": "Portrait",
+        "prompt": "1990s product photography of a mystical tree with crystal leaves painting a portal to another world in a high-tech laboratory.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "255",
+        "title": "Pixel A Hoverbike",
+        "category": "Portrait",
+        "prompt": "pixel art of a futuristic racer on a hoverbike creating a holographic map in a serene zen garden in space.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "oil"
+        ]
+    },
+    {
+        "id": "256",
+        "title": "Panoramic View Lightbulb",
+        "category": "Product",
+        "prompt": "panoramic view of a miniature city inside a lightbulb. lens flare and chromatic aberration. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "257",
+        "title": "Low Angle Shot Lion",
+        "category": "Product",
+        "prompt": "low angle shot of a transparent glass sculpture of a lion. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "retro"
+        ]
+    },
+    {
+        "id": "258",
+        "title": "Text Integration: Goggles",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a polar bear wearing steampunk goggles in a victorian greenhouse. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "259",
+        "title": "Text Integration: Lightbulb",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a miniature city inside a lightbulb in a desert with purple sand. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "oil"
+        ]
+    },
+    {
+        "id": "260",
+        "title": "Bird'S Eye View Grimoire",
+        "category": "Product",
+        "prompt": "bird's eye view of a wizard reading a holographic grimoire. volumetric fog and god rays. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "pixel"
+        ]
+    },
+    {
+        "id": "261",
+        "title": "Claymation A Ingredients",
+        "category": "Text Rendering",
+        "prompt": "claymation of a chef preparing a dish of floating ingredients serving customers in an underwater obsidian palace.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "studio"
+        ]
+    },
+    {
+        "id": "262",
+        "title": "Cinematic A Grimoire",
+        "category": "Portrait",
+        "prompt": "a wizard reading a holographic grimoire dancing in the rain in a desert with purple sand. Shot with dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "263",
+        "title": "Text Integration: Smoke",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a neon-lit cyberpunk alleyway. Label 'FIG 1.1' next to the diagram.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "264",
+        "title": "Text Integration: Lilies",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a samurai standing in a field of red spider lilies in a post-apocalyptic overgrown city. A book title 'THE FUTURE' clearly visible on the spine. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "265",
+        "title": "Fisheye Lens Ingredients",
+        "category": "Diagram",
+        "prompt": "fisheye lens of a chef preparing a dish of floating ingredients. studio lighting with softbox. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "266",
+        "title": "Text Integration: Smoke",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in an underwater obsidian palace. A poster on the wall with the text 'TRAVEL TO MARS'. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "film"
+        ]
+    },
+    {
+        "id": "267",
+        "title": "Portrait Lion",
+        "category": "General",
+        "prompt": "portrait of a transparent glass sculpture of a lion. neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "retro"
+        ]
+    },
+    {
+        "id": "268",
+        "title": "Extreme Close-Up Gears",
+        "category": "Text Rendering",
+        "prompt": "extreme close-up of a steampunk owl with brass gears. Cinematic color grading with muted teal tones. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "oil"
+        ]
+    },
+    {
+        "id": "269",
+        "title": "Text Integration: Air",
+        "category": "General",
+        "prompt": "A photorealistic image of a bioluminescent jellyfish floating in air in a post-apocalyptic overgrown city. A digital HUD displaying 'SYSTEM READY'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "270",
+        "title": "Low A City",
+        "category": "Portrait",
+        "prompt": "low poly 3d of a diver discovering a sunken technological city mid-stride running through a field in an underwater obsidian palace.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "1990s"
+        ]
+    },
+    {
+        "id": "271",
+        "title": "Extreme Close-Up Optics",
+        "category": "General",
+        "prompt": "extreme close-up of a stoic robot barista with glowing blue optics. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "retro"
+        ]
+    },
+    {
+        "id": "272",
+        "title": "Cinematic A Life",
+        "category": "Product",
+        "prompt": "a vintage typewriter coming to life serving customers in a high-tech laboratory. Shot with neon rim lighting. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "273",
+        "title": "Macro Photography City",
+        "category": "Landscape",
+        "prompt": "macro photography of a diver discovering a sunken technological city. high contrast black and white. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "274",
+        "title": "Cyberpunk A Air",
+        "category": "General",
+        "prompt": "cyberpunk aesthetic of a bioluminescent jellyfish floating in air creating a holographic map in a floating island in the clouds.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "275",
+        "title": "Vector A Grimoire",
+        "category": "Portrait",
+        "prompt": "vector art of a wizard reading a holographic grimoire meditating in mid-air in a serene zen garden in space.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "276",
+        "title": "Low A Optics",
+        "category": "Landscape",
+        "prompt": "low poly 3d of a stoic robot barista with glowing blue optics planting a glowing seed in a post-apocalyptic overgrown city.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "steampunk"
+        ]
+    },
+    {
+        "id": "277",
+        "title": "Over-The-Shoulder Shot Smoke",
+        "category": "Diagram",
+        "prompt": "over-the-shoulder shot of a dragon made of swirling smoke. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "film"
+        ]
+    },
+    {
+        "id": "278",
+        "title": "Isometric View Clue",
+        "category": "Landscape",
+        "prompt": "isometric view of a detective examining a glowing clue. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "279",
+        "title": "Vector A Lightbulb",
+        "category": "Diagram",
+        "prompt": "vector art of a miniature city inside a lightbulb meditating in mid-air in a desert with purple sand.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "280",
+        "title": "Extreme Close-Up Goggles",
+        "category": "Portrait",
+        "prompt": "extreme close-up of a polar bear wearing steampunk goggles. high contrast black and white. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "pixel"
+        ]
+    },
+    {
+        "id": "281",
+        "title": "Fisheye Lens City",
+        "category": "Diagram",
+        "prompt": "fisheye lens of a diver discovering a sunken technological city. Cinematic color grading with muted teal tones. Golden hour backlighting creating long shadows",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "retro"
+        ]
+    },
+    {
+        "id": "282",
+        "title": "Silhouette Shot Alien",
+        "category": "Portrait",
+        "prompt": "silhouette shot of an astronaut playing chess with an alien. high contrast black and white. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "283",
+        "title": "Text Integration: Hoverbike",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a futuristic racer on a hoverbike in the surface of a glitched computer screen. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "pixel"
+        ]
+    },
+    {
+        "id": "284",
+        "title": "Fisheye Lens Smoke",
+        "category": "Text Rendering",
+        "prompt": "fisheye lens of a dragon made of swirling smoke. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "285",
+        "title": "Fisheye Lens Picnic",
+        "category": "Text Rendering",
+        "prompt": "fisheye lens of a family of robots having a picnic. studio lighting with softbox. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vector"
+        ]
+    },
+    {
+        "id": "286",
+        "title": "Extreme Close-Up Grimoire",
+        "category": "Text Rendering",
+        "prompt": "extreme close-up of a wizard reading a holographic grimoire. Golden hour backlighting creating long shadows. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "287",
+        "title": "Over-The-Shoulder Shot Light",
+        "category": "Product",
+        "prompt": "over-the-shoulder shot of a musician playing an instrument made of light. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "studio"
+        ]
+    },
+    {
+        "id": "288",
+        "title": "Text Integration: Leaves",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a mystical tree with crystal leaves in a futuristic cafe on Mars. Label 'FIG 1.1' next to the diagram. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "oil"
+        ]
+    },
+    {
+        "id": "289",
+        "title": "Dutch Angle Leaves",
+        "category": "Portrait",
+        "prompt": "dutch angle of a mystical tree with crystal leaves. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "1990s"
+        ]
+    },
+    {
+        "id": "290",
+        "title": "Cinematic A Smoke",
+        "category": "Diagram",
+        "prompt": "a dragon made of swirling smoke playing a violin in a futuristic cafe on Mars. Shot with volumetric fog and god rays.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "pixel"
+        ]
+    },
+    {
+        "id": "291",
+        "title": "Retro A Grimoire",
+        "category": "Text Rendering",
+        "prompt": "retro comic book style of a wizard reading a holographic grimoire mid-stride running through a field in a floating island in the clouds. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "claymation"
+        ]
+    },
+    {
+        "id": "292",
+        "title": "Cinematic A Lightbulb",
+        "category": "Diagram",
+        "prompt": "a miniature city inside a lightbulb brewing a cup of coffee in a floating island in the clouds. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "1990s"
+        ]
+    },
+    {
+        "id": "293",
+        "title": "Text Integration: Lion",
+        "category": "General",
+        "prompt": "A photorealistic image of a transparent glass sculpture of a lion in a neon-lit cyberpunk alleyway. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "294",
+        "title": "Cyberpunk A Goggles",
+        "category": "Landscape",
+        "prompt": "cyberpunk aesthetic of a polar bear wearing steampunk goggles watching a binary sunset in a futuristic cafe on Mars.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "low"
+        ]
+    },
+    {
+        "id": "295",
+        "title": "Film A Lilies",
+        "category": "Diagram",
+        "prompt": "film noir of a samurai standing in a field of red spider lilies reading an ancient scroll in a cluttered alchemist's library. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "studio"
+        ]
+    },
+    {
+        "id": "296",
+        "title": "Over-The-Shoulder Shot Grimoire",
+        "category": "General",
+        "prompt": "over-the-shoulder shot of a wizard reading a holographic grimoire. lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "film"
+        ]
+    },
+    {
+        "id": "297",
+        "title": "Cinematic A Hat",
+        "category": "General",
+        "prompt": "a fluffy calico cat wearing a tiny wizard hat planting a glowing seed in a serene zen garden in space. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "3d"
+        ]
+    },
+    {
+        "id": "298",
+        "title": "Text Integration: Air",
+        "category": "General",
+        "prompt": "A photorealistic image of a bioluminescent jellyfish floating in air in a neon-lit cyberpunk alleyway. A digital HUD displaying 'SYSTEM READY'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "299",
+        "title": "Low A Lilies",
+        "category": "General",
+        "prompt": "low poly 3d of a samurai standing in a field of red spider lilies planting a glowing seed in a victorian greenhouse. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "300",
+        "title": "Watercolor A Leaves",
+        "category": "Portrait",
+        "prompt": "watercolor painting of a mystical tree with crystal leaves playing a violin in a bustling intergalactic market.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "301",
+        "title": "Oil A Life",
+        "category": "Landscape",
+        "prompt": "oil painting of a vintage typewriter coming to life planting a glowing seed in a futuristic cafe on Mars.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "1990s"
+        ]
+    },
+    {
+        "id": "302",
+        "title": "Dutch Angle Hoverbike",
+        "category": "Portrait",
+        "prompt": "dutch angle of a futuristic racer on a hoverbike. high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "1990s"
+        ]
+    },
+    {
+        "id": "303",
+        "title": "Blueprint A City",
+        "category": "Product",
+        "prompt": "blueprint schematic of a diver discovering a sunken technological city serving customers in a futuristic cafe on Mars. soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "pixel"
+        ]
+    },
+    {
+        "id": "304",
+        "title": "Steampunk A Ingredients",
+        "category": "Product",
+        "prompt": "steampunk style of a chef preparing a dish of floating ingredients fixing a complex machine in a cozy cottage in a snowy forest.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "studio"
+        ]
+    },
+    {
+        "id": "305",
+        "title": "Text Integration: Smoke",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a futuristic cafe on Mars. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "oil"
+        ]
+    },
+    {
+        "id": "306",
+        "title": "Bird'S Eye View Hoverbike",
+        "category": "Text Rendering",
+        "prompt": "bird's eye view of a futuristic racer on a hoverbike. neon rim lighting. Golden hour backlighting creating long shadows",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "3d"
+        ]
+    },
+    {
+        "id": "307",
+        "title": "Text Integration: Lilies",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a samurai standing in a field of red spider lilies in a serene zen garden in space. A book title 'THE FUTURE' clearly visible on the spine. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "308",
+        "title": "Cinematic A Optics",
+        "category": "Product",
+        "prompt": "a stoic robot barista with glowing blue optics fixing a complex machine in a desert with purple sand. Shot with lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "309",
+        "title": "Text Integration: Lilies",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a samurai standing in a field of red spider lilies in a high-tech laboratory. A digital HUD displaying 'SYSTEM READY'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "310",
+        "title": "Cinematic A Noodles",
+        "category": "Diagram",
+        "prompt": "a cyberpunk street vendor selling neon noodles watching a binary sunset in a cluttered alchemist's library. Shot with soft pastel color palette. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "film"
+        ]
+    },
+    {
+        "id": "311",
+        "title": "Text Integration: Lilies",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a samurai standing in a field of red spider lilies in a high-tech laboratory. A digital HUD displaying 'SYSTEM READY'. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "312",
+        "title": "Cinematic A Grimoire",
+        "category": "Product",
+        "prompt": "a wizard reading a holographic grimoire climbing a digital mountain in the surface of a glitched computer screen. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "313",
+        "title": "Film A Picnic",
+        "category": "Text Rendering",
+        "prompt": "film noir of a family of robots having a picnic playing a violin in an underwater obsidian palace.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "314",
+        "title": "Wide Shot Lilies",
+        "category": "Text Rendering",
+        "prompt": "wide shot of a samurai standing in a field of red spider lilies. lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "claymation"
+        ]
+    },
+    {
+        "id": "315",
+        "title": "Silhouette Shot Air",
+        "category": "Text Rendering",
+        "prompt": "silhouette shot of a bioluminescent jellyfish floating in air. soft pastel color palette. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "316",
+        "title": "Blueprint A Leaves",
+        "category": "Text Rendering",
+        "prompt": "blueprint schematic of a mystical tree with crystal leaves planting a glowing seed in the surface of a glitched computer screen.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "steampunk"
+        ]
+    },
+    {
+        "id": "317",
+        "title": "Cinematic A Life",
+        "category": "General",
+        "prompt": "a vintage typewriter coming to life planting a glowing seed in a cozy cottage in a snowy forest. Shot with high contrast black and white. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "low"
+        ]
+    },
+    {
+        "id": "318",
+        "title": "Fisheye Lens Ingredients",
+        "category": "Diagram",
+        "prompt": "fisheye lens of a chef preparing a dish of floating ingredients. high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "claymation"
+        ]
+    },
+    {
+        "id": "319",
+        "title": "Ukiyo-E A City",
+        "category": "General",
+        "prompt": "ukiyo-e woodblock print of a diver discovering a sunken technological city climbing a digital mountain in a crystal cave. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "pixel"
+        ]
+    },
+    {
+        "id": "320",
+        "title": "1990S A Ingredients",
+        "category": "Landscape",
+        "prompt": "1990s product photography of a chef preparing a dish of floating ingredients fixing a complex machine in a futuristic cafe on Mars. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "low"
+        ]
+    },
+    {
+        "id": "321",
+        "title": "Text Integration: Life",
+        "category": "General",
+        "prompt": "A photorealistic image of a vintage typewriter coming to life in a floating island in the clouds. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "322",
+        "title": "Cinematic A Smoke",
+        "category": "Portrait",
+        "prompt": "cinematic concept art of a dragon made of swirling smoke watching a binary sunset in a futuristic cafe on Mars. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "323",
+        "title": "Text Integration: Hoverbike",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a futuristic racer on a hoverbike in a cozy cottage in a snowy forest. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "low"
+        ]
+    },
+    {
+        "id": "324",
+        "title": "Silhouette Shot Lilies",
+        "category": "Diagram",
+        "prompt": "silhouette shot of a samurai standing in a field of red spider lilies. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "studio"
+        ]
+    },
+    {
+        "id": "325",
+        "title": "Claymation A Smoke",
+        "category": "Landscape",
+        "prompt": "claymation of a dragon made of swirling smoke serving customers in a victorian greenhouse.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "326",
+        "title": "Retro A Life",
+        "category": "Portrait",
+        "prompt": "retro comic book style of a vintage typewriter coming to life fixing a complex machine in the surface of a glitched computer screen.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "327",
+        "title": "Cinematic A Leaves",
+        "category": "General",
+        "prompt": "a mystical tree with crystal leaves fixing a complex machine in a cluttered alchemist's library. Shot with lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "low"
+        ]
+    },
+    {
+        "id": "328",
+        "title": "Cinematic A Light",
+        "category": "Product",
+        "prompt": "a musician playing an instrument made of light fixing a complex machine in a cozy cottage in a snowy forest. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "film"
+        ]
+    },
+    {
+        "id": "329",
+        "title": "Isometric View Optics",
+        "category": "Diagram",
+        "prompt": "isometric view of a stoic robot barista with glowing blue optics. volumetric fog and god rays.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "330",
+        "title": "Bird'S Eye View Alien",
+        "category": "Landscape",
+        "prompt": "bird's eye view of an astronaut playing chess with an alien. dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "331",
+        "title": "Cinematic A Light",
+        "category": "Landscape",
+        "prompt": "a musician playing an instrument made of light fixing a complex machine in a serene zen garden in space. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "low"
+        ]
+    },
+    {
+        "id": "332",
+        "title": "Extreme Close-Up Hoverbike",
+        "category": "Product",
+        "prompt": "extreme close-up of a futuristic racer on a hoverbike. neon rim lighting. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "studio"
+        ]
+    },
+    {
+        "id": "333",
+        "title": "Watercolor A Lion",
+        "category": "Product",
+        "prompt": "watercolor painting of a transparent glass sculpture of a lion looking at a galaxy map in a serene zen garden in space. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "334",
+        "title": "Cinematic A Goggles",
+        "category": "Landscape",
+        "prompt": "a polar bear wearing steampunk goggles climbing a digital mountain in a serene zen garden in space. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "film"
+        ]
+    },
+    {
+        "id": "335",
+        "title": "Text Integration: Leaves",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a mystical tree with crystal leaves in a neon-lit cyberpunk alleyway. The word 'MAGIC' written in sparkling dust.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "oil"
+        ]
+    },
+    {
+        "id": "336",
+        "title": "Silhouette Shot Goggles",
+        "category": "General",
+        "prompt": "silhouette shot of a polar bear wearing steampunk goggles. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "337",
+        "title": "Cinematic A Life",
+        "category": "Text Rendering",
+        "prompt": "cinematic concept art of a vintage typewriter coming to life brewing a cup of coffee in a neon-lit cyberpunk alleyway.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vector"
+        ]
+    },
+    {
+        "id": "338",
+        "title": "Text Integration: Optics",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a stoic robot barista with glowing blue optics in a cozy cottage in a snowy forest. The word 'MAGIC' written in sparkling dust.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "339",
+        "title": "Cinematic A Hat",
+        "category": "Portrait",
+        "prompt": "a fluffy calico cat wearing a tiny wizard hat mid-stride running through a field in a post-apocalyptic overgrown city. Shot with dramatic chiaroscuro lighting. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "claymation"
+        ]
+    },
+    {
+        "id": "340",
+        "title": "Cinematic A Leaves",
+        "category": "Product",
+        "prompt": "a mystical tree with crystal leaves climbing a digital mountain in a high-tech laboratory. Shot with soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "3d"
+        ]
+    },
+    {
+        "id": "341",
+        "title": "Cinematic A Air",
+        "category": "Portrait",
+        "prompt": "a bioluminescent jellyfish floating in air mid-stride running through a field in a cluttered alchemist's library. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "3d"
+        ]
+    },
+    {
+        "id": "342",
+        "title": "Cinematic A Leaves",
+        "category": "Landscape",
+        "prompt": "a mystical tree with crystal leaves looking at a galaxy map in a neon-lit cyberpunk alleyway. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "pixel"
+        ]
+    },
+    {
+        "id": "343",
+        "title": "Text Integration: City",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a diver discovering a sunken technological city in a serene zen garden in space. A book title 'THE FUTURE' clearly visible on the spine. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "344",
+        "title": "Cinematic A Hoverbike",
+        "category": "Text Rendering",
+        "prompt": "cinematic concept art of a futuristic racer on a hoverbike fixing a complex machine in a high-tech laboratory.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "studio"
+        ]
+    },
+    {
+        "id": "345",
+        "title": "Cinematic A Smoke",
+        "category": "Landscape",
+        "prompt": "a dragon made of swirling smoke serving customers in a neon-lit cyberpunk alleyway. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "346",
+        "title": "Cinematic An Alien",
+        "category": "Landscape",
+        "prompt": "an astronaut playing chess with an alien fixing a complex machine in a cozy cottage in a snowy forest. Shot with soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "347",
+        "title": "Wide Shot Hat",
+        "category": "Landscape",
+        "prompt": "wide shot of a fluffy calico cat wearing a tiny wizard hat. dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "claymation"
+        ]
+    },
+    {
+        "id": "348",
+        "title": "Over-The-Shoulder Shot Light",
+        "category": "Text Rendering",
+        "prompt": "over-the-shoulder shot of a musician playing an instrument made of light. dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "349",
+        "title": "Portrait Smoke",
+        "category": "Portrait",
+        "prompt": "portrait of a dragon made of swirling smoke. studio lighting with softbox. Golden hour backlighting creating long shadows",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "350",
+        "title": "Cinematic A Clue",
+        "category": "Text Rendering",
+        "prompt": "a detective examining a glowing clue climbing a digital mountain in a cozy cottage in a snowy forest. Shot with soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "351",
+        "title": "Ukiyo-E A Noodles",
+        "category": "General",
+        "prompt": "ukiyo-e woodblock print of a cyberpunk street vendor selling neon noodles creating a holographic map in the surface of a glitched computer screen. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "352",
+        "title": "Vector An Alien",
+        "category": "Portrait",
+        "prompt": "vector art of an astronaut playing chess with an alien looking at a galaxy map in a cluttered alchemist's library. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "claymation"
+        ]
+    },
+    {
+        "id": "353",
+        "title": "Cinematic A Smoke",
+        "category": "Landscape",
+        "prompt": "a dragon made of swirling smoke climbing a digital mountain in a cluttered alchemist's library. Shot with dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "354",
+        "title": "Isometric View Alien",
+        "category": "Landscape",
+        "prompt": "isometric view of an astronaut playing chess with an alien. high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "film"
+        ]
+    },
+    {
+        "id": "355",
+        "title": "Cinematic A Leaves",
+        "category": "Portrait",
+        "prompt": "a mystical tree with crystal leaves mid-stride running through a field in a high-tech laboratory. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "356",
+        "title": "Steampunk A Smoke",
+        "category": "Landscape",
+        "prompt": "steampunk style of a dragon made of swirling smoke reading an ancient scroll in a cluttered alchemist's library.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "studio"
+        ]
+    },
+    {
+        "id": "357",
+        "title": "Text Integration: Grimoire",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a wizard reading a holographic grimoire in a sun-drenched meadow at golden hour. The brand name 'NANO' embossed on the product.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "oil"
+        ]
+    },
+    {
+        "id": "358",
+        "title": "Text Integration: Lilies",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a samurai standing in a field of red spider lilies in an underwater obsidian palace. A poster on the wall with the text 'TRAVEL TO MARS'. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "359",
+        "title": "Dutch Angle Alien",
+        "category": "General",
+        "prompt": "dutch angle of an astronaut playing chess with an alien. dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "360",
+        "title": "Cinematic A Air",
+        "category": "Text Rendering",
+        "prompt": "a bioluminescent jellyfish floating in air meditating in mid-air in a high-tech laboratory. Shot with soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "361",
+        "title": "Cinematic A Ingredients",
+        "category": "General",
+        "prompt": "a chef preparing a dish of floating ingredients reading an ancient scroll in a cluttered alchemist's library. Shot with lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "362",
+        "title": "Cinematic A City",
+        "category": "Product",
+        "prompt": "a diver discovering a sunken technological city fixing a complex machine in the surface of a glitched computer screen. Shot with Cinematic color grading with muted teal tones. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "studio"
+        ]
+    },
+    {
+        "id": "363",
+        "title": "Cinematic A Lightbulb",
+        "category": "Text Rendering",
+        "prompt": "a miniature city inside a lightbulb meditating in mid-air in a serene zen garden in space. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "oil"
+        ]
+    },
+    {
+        "id": "364",
+        "title": "Text Integration: Smoke",
+        "category": "General",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a desert with purple sand. A poster on the wall with the text 'TRAVEL TO MARS'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "film"
+        ]
+    },
+    {
+        "id": "365",
+        "title": "Text Integration: Life",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a vintage typewriter coming to life in a high-tech laboratory. Label 'FIG 1.1' next to the diagram.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "366",
+        "title": "Cinematic A Optics",
+        "category": "Text Rendering",
+        "prompt": "a stoic robot barista with glowing blue optics reading an ancient scroll in a sun-drenched meadow at golden hour. Shot with dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "367",
+        "title": "Vector A Optics",
+        "category": "Portrait",
+        "prompt": "vector art of a stoic robot barista with glowing blue optics playing a violin in a high-tech laboratory.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "steampunk"
+        ]
+    },
+    {
+        "id": "368",
+        "title": "Text Integration: Lion",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a transparent glass sculpture of a lion in a neon-lit cyberpunk alleyway. Graffiti on the wall spelling out 'HOPE'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "vector"
+        ]
+    },
+    {
+        "id": "369",
+        "title": "Cinematic A Hat",
+        "category": "Text Rendering",
+        "prompt": "cinematic concept art of a fluffy calico cat wearing a tiny wizard hat planting a glowing seed in a serene zen garden in space.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "370",
+        "title": "Film A Grimoire",
+        "category": "General",
+        "prompt": "film noir of a wizard reading a holographic grimoire meditating in mid-air in an underwater obsidian palace.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "retro"
+        ]
+    },
+    {
+        "id": "371",
+        "title": "Low Angle Shot Air",
+        "category": "Diagram",
+        "prompt": "low angle shot of a bioluminescent jellyfish floating in air. high contrast black and white. soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "claymation"
+        ]
+    },
+    {
+        "id": "372",
+        "title": "Cinematic A Light",
+        "category": "Product",
+        "prompt": "a musician playing an instrument made of light creating a holographic map in the surface of a glitched computer screen. Shot with dramatic chiaroscuro lighting. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "373",
+        "title": "Fisheye Lens Air",
+        "category": "Landscape",
+        "prompt": "fisheye lens of a bioluminescent jellyfish floating in air. Golden hour backlighting creating long shadows. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "374",
+        "title": "Over-The-Shoulder Shot Grimoire",
+        "category": "Diagram",
+        "prompt": "over-the-shoulder shot of a wizard reading a holographic grimoire. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "claymation"
+        ]
+    },
+    {
+        "id": "375",
+        "title": "Isometric View Lion",
+        "category": "Diagram",
+        "prompt": "isometric view of a transparent glass sculpture of a lion. lens flare and chromatic aberration. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "1990s"
+        ]
+    },
+    {
+        "id": "376",
+        "title": "Cinematic A Picnic",
+        "category": "Landscape",
+        "prompt": "a family of robots having a picnic climbing a digital mountain in a desert with purple sand. Shot with volumetric fog and god rays. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "377",
+        "title": "Cinematic A Goggles",
+        "category": "Portrait",
+        "prompt": "a polar bear wearing steampunk goggles climbing a digital mountain in a sun-drenched meadow at golden hour. Shot with dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "studio"
+        ]
+    },
+    {
+        "id": "378",
+        "title": "Cinematic A Picnic",
+        "category": "Portrait",
+        "prompt": "a family of robots having a picnic mid-stride running through a field in a futuristic cafe on Mars. Shot with dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "low"
+        ]
+    },
+    {
+        "id": "379",
+        "title": "Bird'S Eye View Hoverbike",
+        "category": "Text Rendering",
+        "prompt": "bird's eye view of a futuristic racer on a hoverbike. shallow depth of field (f/1.8). soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "380",
+        "title": "Steampunk A Lightbulb",
+        "category": "Product",
+        "prompt": "steampunk style of a miniature city inside a lightbulb playing a violin in a cluttered alchemist's library. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "381",
+        "title": "Claymation A Noodles",
+        "category": "Landscape",
+        "prompt": "claymation of a cyberpunk street vendor selling neon noodles serving customers in a futuristic cafe on Mars. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "retro"
+        ]
+    },
+    {
+        "id": "382",
+        "title": "Text Integration: Smoke",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a neon-lit cyberpunk alleyway. A speech bubble saying 'Hello World'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "383",
+        "title": "Retro A Lilies",
+        "category": "Product",
+        "prompt": "retro comic book style of a samurai standing in a field of red spider lilies looking at a galaxy map in the surface of a glitched computer screen.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "studio"
+        ]
+    },
+    {
+        "id": "384",
+        "title": "Cinematic A Grimoire",
+        "category": "Portrait",
+        "prompt": "a wizard reading a holographic grimoire painting a portal to another world in a sun-drenched meadow at golden hour. Shot with Golden hour backlighting creating long shadows. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "3d"
+        ]
+    },
+    {
+        "id": "385",
+        "title": "Cinematic A Lilies",
+        "category": "Product",
+        "prompt": "a samurai standing in a field of red spider lilies meditating in mid-air in a serene zen garden in space. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "386",
+        "title": "Cinematic A Leaves",
+        "category": "Product",
+        "prompt": "a mystical tree with crystal leaves mid-stride running through a field in a desert with purple sand. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vector"
+        ]
+    },
+    {
+        "id": "387",
+        "title": "Panoramic View Hat",
+        "category": "Diagram",
+        "prompt": "panoramic view of a fluffy calico cat wearing a tiny wizard hat. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "oil"
+        ]
+    },
+    {
+        "id": "388",
+        "title": "Macro Photography Air",
+        "category": "Product",
+        "prompt": "macro photography of a bioluminescent jellyfish floating in air. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "3d"
+        ]
+    },
+    {
+        "id": "389",
+        "title": "Cinematic A Lilies",
+        "category": "Text Rendering",
+        "prompt": "a samurai standing in a field of red spider lilies reading an ancient scroll in a neon-lit cyberpunk alleyway. Shot with studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "studio"
+        ]
+    },
+    {
+        "id": "390",
+        "title": "Text Integration: Gears",
+        "category": "Product",
+        "prompt": "A photorealistic image of a steampunk owl with brass gears in a victorian greenhouse. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "steampunk"
+        ]
+    },
+    {
+        "id": "391",
+        "title": "Ukiyo-E A Clue",
+        "category": "Product",
+        "prompt": "ukiyo-e woodblock print of a detective examining a glowing clue climbing a digital mountain in a crystal cave.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "392",
+        "title": "Text Integration: Air",
+        "category": "Product",
+        "prompt": "A photorealistic image of a bioluminescent jellyfish floating in air in a futuristic cafe on Mars. The brand name 'NANO' embossed on the product.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "393",
+        "title": "Studio A Gears",
+        "category": "Diagram",
+        "prompt": "studio Ghibli style of a steampunk owl with brass gears watching a binary sunset in a floating island in the clouds. soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "vector"
+        ]
+    },
+    {
+        "id": "394",
+        "title": "Photorealistic A Goggles",
+        "category": "Portrait",
+        "prompt": "photorealistic of a polar bear wearing steampunk goggles playing a violin in a futuristic cafe on Mars. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "395",
+        "title": "Text Integration: Lion",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a transparent glass sculpture of a lion in a high-tech laboratory. Graffiti on the wall spelling out 'HOPE'. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "396",
+        "title": "Cinematic A Life",
+        "category": "Text Rendering",
+        "prompt": "a vintage typewriter coming to life dancing in the rain in a crystal cave. Shot with studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "397",
+        "title": "Text Integration: Noodles",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a cyberpunk street vendor selling neon noodles in a neon-lit cyberpunk alleyway. The word 'MAGIC' written in sparkling dust.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "low"
+        ]
+    },
+    {
+        "id": "398",
+        "title": "Dutch Angle Lightbulb",
+        "category": "Product",
+        "prompt": "dutch angle of a miniature city inside a lightbulb. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "studio"
+        ]
+    },
+    {
+        "id": "399",
+        "title": "Ukiyo-E A Life",
+        "category": "Diagram",
+        "prompt": "ukiyo-e woodblock print of a vintage typewriter coming to life meditating in mid-air in a sun-drenched meadow at golden hour.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "400",
+        "title": "Wide Shot Air",
+        "category": "Text Rendering",
+        "prompt": "wide shot of a bioluminescent jellyfish floating in air. lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "401",
+        "title": "Text Integration: Hat",
+        "category": "Product",
+        "prompt": "A photorealistic image of a fluffy calico cat wearing a tiny wizard hat in the surface of a glitched computer screen. A poster on the wall with the text 'TRAVEL TO MARS'. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "402",
+        "title": "Silhouette Shot Smoke",
+        "category": "Landscape",
+        "prompt": "silhouette shot of a dragon made of swirling smoke. lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "retro"
+        ]
+    },
+    {
+        "id": "403",
+        "title": "Cinematic A Hat",
+        "category": "Product",
+        "prompt": "a fluffy calico cat wearing a tiny wizard hat climbing a digital mountain in a serene zen garden in space. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "film"
+        ]
+    },
+    {
+        "id": "404",
+        "title": "Vaporwave A Lilies",
+        "category": "Product",
+        "prompt": "vaporwave of a samurai standing in a field of red spider lilies serving customers in a neon-lit cyberpunk alleyway. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "405",
+        "title": "Cinematic A Air",
+        "category": "Portrait",
+        "prompt": "a bioluminescent jellyfish floating in air looking at a galaxy map in a serene zen garden in space. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "406",
+        "title": "Cinematic A Clue",
+        "category": "Portrait",
+        "prompt": "a detective examining a glowing clue looking at a galaxy map in a high-tech laboratory. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "studio"
+        ]
+    },
+    {
+        "id": "407",
+        "title": "Portrait Alien",
+        "category": "Product",
+        "prompt": "portrait of an astronaut playing chess with an alien. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "pixel"
+        ]
+    },
+    {
+        "id": "408",
+        "title": "Cinematic A Smoke",
+        "category": "Text Rendering",
+        "prompt": "a dragon made of swirling smoke creating a holographic map in a serene zen garden in space. Shot with studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "409",
+        "title": "Cinematic A Smoke",
+        "category": "Landscape",
+        "prompt": "a dragon made of swirling smoke planting a glowing seed in a neon-lit cyberpunk alleyway. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "claymation"
+        ]
+    },
+    {
+        "id": "410",
+        "title": "Cinematic A Picnic",
+        "category": "General",
+        "prompt": "a family of robots having a picnic planting a glowing seed in a serene zen garden in space. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "411",
+        "title": "Isometric View Lilies",
+        "category": "Landscape",
+        "prompt": "isometric view of a samurai standing in a field of red spider lilies. soft pastel color palette. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "412",
+        "title": "Text Integration: Life",
+        "category": "Product",
+        "prompt": "A photorealistic image of a vintage typewriter coming to life in a bustling intergalactic market. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "413",
+        "title": "Low A Lion",
+        "category": "Text Rendering",
+        "prompt": "low poly 3d of a transparent glass sculpture of a lion casting a magical spell in a cluttered alchemist's library.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vector"
+        ]
+    },
+    {
+        "id": "414",
+        "title": "Cinematic A City",
+        "category": "Text Rendering",
+        "prompt": "a diver discovering a sunken technological city brewing a cup of coffee in a victorian greenhouse. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "415",
+        "title": "Cinematic A City",
+        "category": "General",
+        "prompt": "a diver discovering a sunken technological city painting a portal to another world in a serene zen garden in space. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "film"
+        ]
+    },
+    {
+        "id": "416",
+        "title": "3D A Goggles",
+        "category": "Text Rendering",
+        "prompt": "3D animation of a polar bear wearing steampunk goggles meditating in mid-air in a serene zen garden in space. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "claymation"
+        ]
+    },
+    {
+        "id": "417",
+        "title": "Text Integration: Grimoire",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a wizard reading a holographic grimoire in a bustling intergalactic market. A speech bubble saying 'Hello World'. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "3d"
+        ]
+    },
+    {
+        "id": "418",
+        "title": "Dutch Angle Clue",
+        "category": "Product",
+        "prompt": "dutch angle of a detective examining a glowing clue. soft pastel color palette. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "419",
+        "title": "Extreme Close-Up Clue",
+        "category": "Landscape",
+        "prompt": "extreme close-up of a detective examining a glowing clue. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "studio"
+        ]
+    },
+    {
+        "id": "420",
+        "title": "Text Integration: City",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a diver discovering a sunken technological city in an underwater obsidian palace. A poster on the wall with the text 'TRAVEL TO MARS'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "3d"
+        ]
+    },
+    {
+        "id": "421",
+        "title": "Text Integration: Hoverbike",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a futuristic racer on a hoverbike in a cozy cottage in a snowy forest. The headline 'URBAN EXPLORER' rendered in bold, white, sans-serif font at the top.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "3d"
+        ]
+    },
+    {
+        "id": "422",
+        "title": "Cinematic A Hat",
+        "category": "Text Rendering",
+        "prompt": "a fluffy calico cat wearing a tiny wizard hat casting a magical spell in an underwater obsidian palace. Shot with lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "423",
+        "title": "Cinematic A Smoke",
+        "category": "Text Rendering",
+        "prompt": "a dragon made of swirling smoke fixing a complex machine in a high-tech laboratory. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "1990s"
+        ]
+    },
+    {
+        "id": "424",
+        "title": "Over-The-Shoulder Shot Air",
+        "category": "Product",
+        "prompt": "over-the-shoulder shot of a bioluminescent jellyfish floating in air. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "425",
+        "title": "Bird'S Eye View Noodles",
+        "category": "General",
+        "prompt": "bird's eye view of a cyberpunk street vendor selling neon noodles. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "studio"
+        ]
+    },
+    {
+        "id": "426",
+        "title": "Extreme Close-Up Lightbulb",
+        "category": "General",
+        "prompt": "extreme close-up of a miniature city inside a lightbulb. Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "studio"
+        ]
+    },
+    {
+        "id": "427",
+        "title": "Fisheye Lens City",
+        "category": "Portrait",
+        "prompt": "fisheye lens of a diver discovering a sunken technological city. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "428",
+        "title": "Cinematic A Lion",
+        "category": "Text Rendering",
+        "prompt": "cinematic concept art of a transparent glass sculpture of a lion looking at a galaxy map in a sun-drenched meadow at golden hour. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "3d"
+        ]
+    },
+    {
+        "id": "429",
+        "title": "Text Integration: Picnic",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a family of robots having a picnic in a cluttered alchemist's library. The brand name 'NANO' embossed on the product.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "film"
+        ]
+    },
+    {
+        "id": "430",
+        "title": "Over-The-Shoulder Shot Smoke",
+        "category": "Product",
+        "prompt": "over-the-shoulder shot of a dragon made of swirling smoke. Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "retro"
+        ]
+    },
+    {
+        "id": "431",
+        "title": "Text Integration: Optics",
+        "category": "Portrait",
+        "prompt": "A photorealistic image of a stoic robot barista with glowing blue optics in a futuristic cafe on Mars. A poster on the wall with the text 'TRAVEL TO MARS'. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "claymation"
+        ]
+    },
+    {
+        "id": "432",
+        "title": "Wide Shot Leaves",
+        "category": "Landscape",
+        "prompt": "wide shot of a mystical tree with crystal leaves. neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vector"
+        ]
+    },
+    {
+        "id": "433",
+        "title": "Extreme Close-Up Lion",
+        "category": "Text Rendering",
+        "prompt": "extreme close-up of a transparent glass sculpture of a lion. volumetric fog and god rays.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "434",
+        "title": "Text Integration: Life",
+        "category": "Product",
+        "prompt": "A photorealistic image of a vintage typewriter coming to life in a high-tech laboratory. Label 'FIG 1.1' next to the diagram. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "steampunk"
+        ]
+    },
+    {
+        "id": "435",
+        "title": "Wide Shot Grimoire",
+        "category": "Landscape",
+        "prompt": "wide shot of a wizard reading a holographic grimoire. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "436",
+        "title": "Retro A Gears",
+        "category": "Landscape",
+        "prompt": "retro comic book style of a steampunk owl with brass gears looking at a galaxy map in a bustling intergalactic market.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "437",
+        "title": "Vaporwave A City",
+        "category": "Portrait",
+        "prompt": "vaporwave of a diver discovering a sunken technological city looking at a galaxy map in a bustling intergalactic market.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "pixel"
+        ]
+    },
+    {
+        "id": "438",
+        "title": "Wide Shot Optics",
+        "category": "Diagram",
+        "prompt": "wide shot of a stoic robot barista with glowing blue optics. neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "439",
+        "title": "Cinematic A Light",
+        "category": "Product",
+        "prompt": "a musician playing an instrument made of light mid-stride running through a field in a post-apocalyptic overgrown city. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "440",
+        "title": "Cinematic A Smoke",
+        "category": "Product",
+        "prompt": "a dragon made of swirling smoke playing a violin in a floating island in the clouds. Shot with shallow depth of field (f/1.8). lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "3d"
+        ]
+    },
+    {
+        "id": "441",
+        "title": "Pixel A Grimoire",
+        "category": "Diagram",
+        "prompt": "pixel art of a wizard reading a holographic grimoire playing a violin in a crystal cave. high contrast black and white",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "442",
+        "title": "Text Integration: Ingredients",
+        "category": "Product",
+        "prompt": "A photorealistic image of a chef preparing a dish of floating ingredients in a neon-lit cyberpunk alleyway. A neon sign reading 'OPEN 24/7' glowing in the background.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "film"
+        ]
+    },
+    {
+        "id": "443",
+        "title": "Cinematic A Goggles",
+        "category": "Text Rendering",
+        "prompt": "a polar bear wearing steampunk goggles serving customers in a post-apocalyptic overgrown city. Shot with Cinematic color grading with muted teal tones. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "claymation"
+        ]
+    },
+    {
+        "id": "444",
+        "title": "Text Integration: Air",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a bioluminescent jellyfish floating in air in an underwater obsidian palace. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "oil"
+        ]
+    },
+    {
+        "id": "445",
+        "title": "Cinematic A Light",
+        "category": "Portrait",
+        "prompt": "a musician playing an instrument made of light dancing in the rain in the surface of a glitched computer screen. Shot with shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "studio"
+        ]
+    },
+    {
+        "id": "446",
+        "title": "Cinematic A Grimoire",
+        "category": "Diagram",
+        "prompt": "a wizard reading a holographic grimoire mid-stride running through a field in a post-apocalyptic overgrown city. Shot with high contrast black and white.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "447",
+        "title": "Cinematic A Leaves",
+        "category": "General",
+        "prompt": "a mystical tree with crystal leaves looking at a galaxy map in a cozy cottage in a snowy forest. Shot with dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "oil"
+        ]
+    },
+    {
+        "id": "448",
+        "title": "Over-The-Shoulder Shot Goggles",
+        "category": "Diagram",
+        "prompt": "over-the-shoulder shot of a polar bear wearing steampunk goggles. Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "449",
+        "title": "Portrait Lion",
+        "category": "Text Rendering",
+        "prompt": "portrait of a transparent glass sculpture of a lion. lens flare and chromatic aberration. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "450",
+        "title": "Cyberpunk A Ingredients",
+        "category": "Landscape",
+        "prompt": "cyberpunk aesthetic of a chef preparing a dish of floating ingredients casting a magical spell in a bustling intergalactic market.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "vector"
+        ]
+    },
+    {
+        "id": "451",
+        "title": "Cinematic A Hat",
+        "category": "Text Rendering",
+        "prompt": "a fluffy calico cat wearing a tiny wizard hat reading an ancient scroll in a futuristic cafe on Mars. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "1990s"
+        ]
+    },
+    {
+        "id": "452",
+        "title": "Cinematic A Hoverbike",
+        "category": "Portrait",
+        "prompt": "a futuristic racer on a hoverbike watching a binary sunset in a neon-lit cyberpunk alleyway. Shot with Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "pixel"
+        ]
+    },
+    {
+        "id": "453",
+        "title": "Cinematic A Lilies",
+        "category": "Product",
+        "prompt": "a samurai standing in a field of red spider lilies planting a glowing seed in an underwater obsidian palace. Shot with lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "low"
+        ]
+    },
+    {
+        "id": "454",
+        "title": "Text Integration: Grimoire",
+        "category": "Product",
+        "prompt": "A photorealistic image of a wizard reading a holographic grimoire in a post-apocalyptic overgrown city. A digital HUD displaying 'SYSTEM READY'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "steampunk"
+        ]
+    },
+    {
+        "id": "455",
+        "title": "Retro A Leaves",
+        "category": "Product",
+        "prompt": "retro comic book style of a mystical tree with crystal leaves dancing in the rain in a cluttered alchemist's library.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "456",
+        "title": "Silhouette Shot Light",
+        "category": "General",
+        "prompt": "silhouette shot of a musician playing an instrument made of light. shallow depth of field (f/1.8). lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "low"
+        ]
+    },
+    {
+        "id": "457",
+        "title": "Text Integration: Light",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a musician playing an instrument made of light in a desert with purple sand. A digital HUD displaying 'SYSTEM READY'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "film"
+        ]
+    },
+    {
+        "id": "458",
+        "title": "Cinematic A Lion",
+        "category": "Landscape",
+        "prompt": "a transparent glass sculpture of a lion reading an ancient scroll in a victorian greenhouse. Shot with studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "ukiyo-e"
+        ]
+    },
+    {
+        "id": "459",
+        "title": "Blueprint A Leaves",
+        "category": "Diagram",
+        "prompt": "blueprint schematic of a mystical tree with crystal leaves meditating in mid-air in a neon-lit cyberpunk alleyway.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "retro"
+        ]
+    },
+    {
+        "id": "460",
+        "title": "Extreme Close-Up Ingredients",
+        "category": "Product",
+        "prompt": "extreme close-up of a chef preparing a dish of floating ingredients. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "461",
+        "title": "Cinematic A Smoke",
+        "category": "Diagram",
+        "prompt": "a dragon made of swirling smoke planting a glowing seed in a bustling intergalactic market. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "vector"
+        ]
+    },
+    {
+        "id": "462",
+        "title": "Cinematic A Noodles",
+        "category": "Diagram",
+        "prompt": "a cyberpunk street vendor selling neon noodles casting a magical spell in a post-apocalyptic overgrown city. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "463",
+        "title": "Portrait Gears",
+        "category": "Text Rendering",
+        "prompt": "portrait of a steampunk owl with brass gears. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "3d"
+        ]
+    },
+    {
+        "id": "464",
+        "title": "Text Integration: Leaves",
+        "category": "Text Rendering",
+        "prompt": "A photorealistic image of a mystical tree with crystal leaves in the surface of a glitched computer screen. A speech bubble saying 'Hello World'. soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "465",
+        "title": "Steampunk A Ingredients",
+        "category": "Diagram",
+        "prompt": "steampunk style of a chef preparing a dish of floating ingredients planting a glowing seed in a sun-drenched meadow at golden hour.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "vector"
+        ]
+    },
+    {
+        "id": "466",
+        "title": "Cinematic A Goggles",
+        "category": "Diagram",
+        "prompt": "a polar bear wearing steampunk goggles mid-stride running through a field in a serene zen garden in space. Shot with Cinematic color grading with muted teal tones. Cinematic color grading with muted teal tones",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "low"
+        ]
+    },
+    {
+        "id": "467",
+        "title": "Text Integration: Air",
+        "category": "General",
+        "prompt": "A photorealistic image of a bioluminescent jellyfish floating in air in a bustling intergalactic market. A poster on the wall with the text 'TRAVEL TO MARS'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "468",
+        "title": "Cinematic A Grimoire",
+        "category": "Diagram",
+        "prompt": "a wizard reading a holographic grimoire casting a magical spell in an underwater obsidian palace. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "3d"
+        ]
+    },
+    {
+        "id": "469",
+        "title": "Vector A Lightbulb",
+        "category": "Product",
+        "prompt": "vector art of a miniature city inside a lightbulb playing a violin in a victorian greenhouse.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "oil"
+        ]
+    },
+    {
+        "id": "470",
+        "title": "Over-The-Shoulder Shot Hoverbike",
+        "category": "Portrait",
+        "prompt": "over-the-shoulder shot of a futuristic racer on a hoverbike. soft pastel color palette. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "471",
+        "title": "Studio A Smoke",
+        "category": "Landscape",
+        "prompt": "studio Ghibli style of a dragon made of swirling smoke casting a magical spell in a post-apocalyptic overgrown city.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "472",
+        "title": "Text Integration: Lightbulb",
+        "category": "General",
+        "prompt": "A photorealistic image of a miniature city inside a lightbulb in a bustling intergalactic market. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "oil"
+        ]
+    },
+    {
+        "id": "473",
+        "title": "Cinematic A Life",
+        "category": "General",
+        "prompt": "a vintage typewriter coming to life fixing a complex machine in a floating island in the clouds. Shot with lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "3d"
+        ]
+    },
+    {
+        "id": "474",
+        "title": "Vector A Gears",
+        "category": "Text Rendering",
+        "prompt": "vector art of a steampunk owl with brass gears playing a violin in a high-tech laboratory.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "film"
+        ]
+    },
+    {
+        "id": "475",
+        "title": "Extreme Close-Up Lightbulb",
+        "category": "Landscape",
+        "prompt": "extreme close-up of a miniature city inside a lightbulb. Cinematic color grading with muted teal tones.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "retro"
+        ]
+    },
+    {
+        "id": "476",
+        "title": "Text Integration: Smoke",
+        "category": "Landscape",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a desert with purple sand. A speech bubble saying 'Hello World'. neon rim lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "oil"
+        ]
+    },
+    {
+        "id": "477",
+        "title": "Silhouette Shot Picnic",
+        "category": "Portrait",
+        "prompt": "silhouette shot of a family of robots having a picnic. dramatic chiaroscuro lighting. Golden hour backlighting creating long shadows",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "1990s"
+        ]
+    },
+    {
+        "id": "478",
+        "title": "Extreme Close-Up Goggles",
+        "category": "Diagram",
+        "prompt": "extreme close-up of a polar bear wearing steampunk goggles. lens flare and chromatic aberration.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "watercolor"
+        ]
+    },
+    {
+        "id": "479",
+        "title": "Extreme Close-Up Lightbulb",
+        "category": "Product",
+        "prompt": "extreme close-up of a miniature city inside a lightbulb. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "480",
+        "title": "Over-The-Shoulder Shot Light",
+        "category": "General",
+        "prompt": "over-the-shoulder shot of a musician playing an instrument made of light. dramatic chiaroscuro lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vector"
+        ]
+    },
+    {
+        "id": "481",
+        "title": "Cinematic A Clue",
+        "category": "Text Rendering",
+        "prompt": "a detective examining a glowing clue casting a magical spell in a high-tech laboratory. Shot with neon rim lighting. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "retro"
+        ]
+    },
+    {
+        "id": "482",
+        "title": "1990S A Smoke",
+        "category": "Product",
+        "prompt": "1990s product photography of a dragon made of swirling smoke planting a glowing seed in a high-tech laboratory. shallow depth of field (f/1.8)",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "retro"
+        ]
+    },
+    {
+        "id": "483",
+        "title": "Extreme Close-Up Light",
+        "category": "Product",
+        "prompt": "extreme close-up of a musician playing an instrument made of light. Cinematic color grading with muted teal tones. soft pastel color palette",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "484",
+        "title": "Cyberpunk A Air",
+        "category": "Landscape",
+        "prompt": "cyberpunk aesthetic of a bioluminescent jellyfish floating in air looking at a galaxy map in a desert with purple sand.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "landscape",
+            "cyberpunk"
+        ]
+    },
+    {
+        "id": "485",
+        "title": "Fisheye Lens City",
+        "category": "Product",
+        "prompt": "fisheye lens of a diver discovering a sunken technological city. dramatic chiaroscuro lighting. studio lighting with softbox",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "486",
+        "title": "Extreme Close-Up Alien",
+        "category": "Portrait",
+        "prompt": "extreme close-up of an astronaut playing chess with an alien. Cinematic color grading with muted teal tones. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "487",
+        "title": "Cinematic A Gears",
+        "category": "Text Rendering",
+        "prompt": "a steampunk owl with brass gears creating a holographic map in a desert with purple sand. Shot with neon rim lighting.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "claymation"
+        ]
+    },
+    {
+        "id": "488",
+        "title": "Cinematic A Picnic",
+        "category": "Text Rendering",
+        "prompt": "a family of robots having a picnic dancing in the rain in a desert with purple sand. Shot with Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "claymation"
+        ]
+    },
+    {
+        "id": "489",
+        "title": "Text Integration: Smoke",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in a serene zen garden in space. Label 'FIG 1.1' next to the diagram.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "vector"
+        ]
+    },
+    {
+        "id": "490",
+        "title": "Over-The-Shoulder Shot Clue",
+        "category": "General",
+        "prompt": "over-the-shoulder shot of a detective examining a glowing clue. Golden hour backlighting creating long shadows.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "491",
+        "title": "Text Integration: Ingredients",
+        "category": "Product",
+        "prompt": "A photorealistic image of a chef preparing a dish of floating ingredients in a neon-lit cyberpunk alleyway. A digital HUD displaying 'SYSTEM READY'.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "cinematic"
+        ]
+    },
+    {
+        "id": "492",
+        "title": "Text Integration: Clue",
+        "category": "General",
+        "prompt": "A photorealistic image of a detective examining a glowing clue in a futuristic cafe on Mars. A speech bubble saying 'Hello World'. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "vaporwave"
+        ]
+    },
+    {
+        "id": "493",
+        "title": "Wide Shot Picnic",
+        "category": "Portrait",
+        "prompt": "wide shot of a family of robots having a picnic. studio lighting with softbox.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "portrait",
+            "vector"
+        ]
+    },
+    {
+        "id": "494",
+        "title": "Cinematic A Hoverbike",
+        "category": "Product",
+        "prompt": "a futuristic racer on a hoverbike watching a binary sunset in a high-tech laboratory. Shot with volumetric fog and god rays. volumetric fog and god rays",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "495",
+        "title": "Blueprint A Hat",
+        "category": "Diagram",
+        "prompt": "blueprint schematic of a fluffy calico cat wearing a tiny wizard hat meditating in mid-air in a serene zen garden in space. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "low"
+        ]
+    },
+    {
+        "id": "496",
+        "title": "Panoramic View Hat",
+        "category": "Product",
+        "prompt": "panoramic view of a fluffy calico cat wearing a tiny wizard hat. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "photorealistic"
+        ]
+    },
+    {
+        "id": "497",
+        "title": "Wide Shot Lightbulb",
+        "category": "General",
+        "prompt": "wide shot of a miniature city inside a lightbulb. shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "pixel"
+        ]
+    },
+    {
+        "id": "498",
+        "title": "Text Integration: Goggles",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a polar bear wearing steampunk goggles in a neon-lit cyberpunk alleyway. A poster on the wall with the text 'TRAVEL TO MARS'. lens flare and chromatic aberration",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "oil"
+        ]
+    },
+    {
+        "id": "499",
+        "title": "Text Integration: Hat",
+        "category": "Product",
+        "prompt": "A photorealistic image of a fluffy calico cat wearing a tiny wizard hat in a futuristic cafe on Mars. Label 'FIG 1.1' next to the diagram.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "3d"
+        ]
+    },
+    {
+        "id": "500",
+        "title": "Text Integration: Smoke",
+        "category": "Diagram",
+        "prompt": "A photorealistic image of a dragon made of swirling smoke in the surface of a glitched computer screen. A book title 'THE FUTURE' clearly visible on the spine.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "diagram",
+            "film"
+        ]
+    },
+    {
+        "id": "501",
+        "title": "Over-The-Shoulder Shot Lion",
+        "category": "General",
+        "prompt": "over-the-shoulder shot of a transparent glass sculpture of a lion. studio lighting with softbox. dramatic chiaroscuro lighting",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "claymation"
+        ]
+    },
+    {
+        "id": "502",
+        "title": "Silhouette Shot City",
+        "category": "General",
+        "prompt": "silhouette shot of a diver discovering a sunken technological city. dramatic chiaroscuro lighting. Golden hour backlighting creating long shadows",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "general",
+            "blueprint"
+        ]
+    },
+    {
+        "id": "503",
+        "title": "Cinematic A Clue",
+        "category": "Product",
+        "prompt": "a detective examining a glowing clue dancing in the rain in a victorian greenhouse. Shot with shallow depth of field (f/1.8).",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "product",
+            "vector"
+        ]
+    },
+    {
+        "id": "504",
+        "title": "Bird'S Eye View Ingredients",
+        "category": "Text Rendering",
+        "prompt": "bird's eye view of a chef preparing a dish of floating ingredients. soft pastel color palette.",
+        "tags": [
+            "gemininanobanana",
+            "generated",
+            "text rendering",
+            "film"
+        ]
+    },
+    {
+        "id": "505",
+        "title": "Neon Noir",
+        "category": "Typography",
+        "prompt": "A rainy cyberpunk street corner at night. A flickering pink neon sign clearly spells 'NO VACANCY' above a rusty metal door. Reflections in the wet pavement.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "506",
+        "title": "Vintage Cereal",
+        "category": "Typography",
+        "prompt": "A 1980s style cereal box sitting on a breakfast table. The box logo says 'STAR CRUNCH' in bold yellow letters. A cartoon astronaut mascot is holding a spoon.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "507",
+        "title": "Chalkboard Art",
+        "category": "Typography",
+        "prompt": "A cafe menu board written in decorative chalk typography. The header says 'Todays Specials' and the first item is 'Lavender Honey Latte'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "508",
+        "title": "Sci-Fi Interface",
+        "category": "Typography",
+        "prompt": "A holographic blue HUD floating in a spaceship cockpit. The central warning message reads 'SYSTEM CRITICAL' in a tech font.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "509",
+        "title": "Floral Wedding Invite",
+        "category": "Typography",
+        "prompt": "A flatlay of a wedding invitation with watercolor peonies. The script text in the center reads 'Save the Date' in elegant gold foil.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "510",
+        "title": "Streetwear Hoodie",
+        "category": "Typography",
+        "prompt": "A fashion shot of a model wearing a black oversized hoodie. The back of the hoodie has white text that says 'FUTURE PROOF' in a distressed font.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "511",
+        "title": "Protest Sign",
+        "category": "Typography",
+        "prompt": "A crowd of people in a blurry background. In sharp focus, a hand holds a cardboard sign with the handwritten text 'SAVE THE BEES'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "512",
+        "title": "Antique Book",
+        "category": "Typography",
+        "prompt": "A leather-bound book resting on a wooden desk. The gold-embossed spine reads 'The Alchemist's Guide to Time Travel'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "513",
+        "title": "Graffiti Wall",
+        "category": "Typography",
+        "prompt": "A brick wall covered in colorful street art. In the center, a spray-painted tag reads 'RESIST' in bubble letters with a dripping paint effect.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "514",
+        "title": "Product Label",
+        "category": "Typography",
+        "prompt": "Close-up of a glass jar of artisan honey. The label is kraft paper with a stamped logo that says 'PURE GOLD' and a bee illustration.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "515",
+        "title": "Coding Screen",
+        "category": "Typography",
+        "prompt": "A computer monitor in a dark room displaying colorful code syntax. The comment line says '# Initializing Neural Link...' in green text.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "516",
+        "title": "Motivational Poster",
+        "category": "Typography",
+        "prompt": "A minimalist framed poster on a white wall. It features a mountain peak and the text 'CLIMB HIGHER' in a clean sans-serif font.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "517",
+        "title": "License Plate",
+        "category": "Typography",
+        "prompt": "The rear bumper of a classic muscle car. The yellow license plate reads 'OUTATIME' in embossed black letters.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "518",
+        "title": "Embroidery Hoop",
+        "category": "Typography",
+        "prompt": "An embroidery hoop on a linen cloth. It features stitched flowers and the text 'Home Sweet Home' in cursive thread.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "519",
+        "title": "Magazine Cover",
+        "category": "Typography",
+        "prompt": "A glossy fashion magazine lying on a coffee table. The masthead says 'VOGUE' and the headline reads 'SUMMER TRENDS'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "520",
+        "title": "Tattoo Art",
+        "category": "Typography",
+        "prompt": "A close-up of a forearm tattoo in traditional ink style. A dagger piercing a rose with a scroll that says 'FOREVER'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "521",
+        "title": "Bakery Window",
+        "category": "Typography",
+        "prompt": "A view through a bakery window. 'FRESH BREAD' is written in gold leaf lettering on the glass. Pastries visible inside.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "522",
+        "title": "Warning Label",
+        "category": "Typography",
+        "prompt": "A close-up of a futuristic energy cell. A yellow hazard sticker reads 'HIGH VOLTAGE' with a lightning bolt symbol.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "523",
+        "title": "Calligraphy Scroll",
+        "category": "Typography",
+        "prompt": "An unrolled parchment scroll on a stone table. Black ink calligraphy spells out 'Wisdom Begins in Wonder'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "524",
+        "title": "Movie Marquee",
+        "category": "Typography",
+        "prompt": "An old-fashioned cinema entrance. The lit-up marquee displays the movie title 'THE MIDNIGHT EXPRESS'.",
+        "tags": [
+            "gemininanobanana",
+            "typography",
+            "text",
+            "design"
+        ]
+    },
+    {
+        "id": "525",
+        "title": "Macro Eye",
+        "category": "Photography",
+        "prompt": "Extreme close-up of a human iris, blue and green detailed texture. Reflection of a window is visible in the pupil. Macro lens, f/2.8.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "526",
+        "title": "Portrait Depth",
+        "category": "Photography",
+        "prompt": "Portrait of a laughing child in a park. The background is completely blurred into soft green bokeh circles. 85mm lens, f/1.4.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "527",
+        "title": "Golden Hour Landscape",
+        "category": "Photography",
+        "prompt": "A rolling vineyard in Tuscany at sunset. Long shadows stretching across the vines. Warm golden light bathing the scene. Wide angle shot.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "528",
+        "title": "Action Freeze",
+        "category": "Photography",
+        "prompt": "A skateboarder frozen in mid-air doing a kickflip. Dust particles suspended in the air. Fast shutter speed 1/1000s, sharp focus.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "529",
+        "title": "Long Exposure Traffic",
+        "category": "Photography",
+        "prompt": "A highway at night looking down from a bridge. Headlights and taillights are smooth streaks of white and red light. Long exposure.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "530",
+        "title": "Product Studio",
+        "category": "Photography",
+        "prompt": "A luxury perfume bottle on a black glass surface. Rim lighting creating a sleek silhouette. Studio strobe lighting, high contrast.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "531",
+        "title": "Underwater Split",
+        "category": "Photography",
+        "prompt": "A split-level shot half above and half below the ocean surface. Above: a tropical island. Below: a colorful coral reef. GoPro style.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "532",
+        "title": "Drone Top-Down",
+        "category": "Photography",
+        "prompt": "Aerial view of a basketball court surrounded by a dense forest. Geometric symmetry of the court lines. High noon lighting, no shadows.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "533",
+        "title": "Film Noir Detective",
+        "category": "Photography",
+        "prompt": "Black and white photo of a detective in a trench coat standing under a streetlamp. High contrast, dramatic shadows, film grain.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "534",
+        "title": "Food Photography",
+        "category": "Photography",
+        "prompt": "Overhead shot of a rustic wooden table with a feast. Soft, diffused natural window light coming from the left. 50mm lens.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "535",
+        "title": "Wildlife Telephoto",
+        "category": "Photography",
+        "prompt": "Close-up of a snowy owl perched on a branch. The background is a soft white blur of falling snow. 400mm telephoto lens.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "536",
+        "title": "Silhouette Sunrise",
+        "category": "Photography",
+        "prompt": "Silhouette of a yoga practitioner in a tree pose against a vibrant purple and orange sunrise sky. High contrast.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "537",
+        "title": "Tilt-Shift City",
+        "category": "Photography",
+        "prompt": "A busy intersection in Tokyo viewed from above. The cars and people look like miniature toys. Tilt-shift blur effect on top and bottom.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "538",
+        "title": "Interstellar Wide",
+        "category": "Photography",
+        "prompt": "Cinematic wide shot of an astronaut standing on a rocky alien moon. A giant ringed planet fills the sky. IMAX aspect ratio.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "539",
+        "title": "Fashion Runway",
+        "category": "Photography",
+        "prompt": "Full body shot of a model walking the runway. Spotlight on the model, audience creates a dark vignette. 70-200mm lens.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "540",
+        "title": "Architectural Symmetry",
+        "category": "Photography",
+        "prompt": "Looking straight up at the glass facade of a skyscraper reflecting the clouds. Perfect symmetry and leading lines.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "541",
+        "title": "Candlelight Portrait",
+        "category": "Photography",
+        "prompt": "A woman reading a letter by candlelight. The only light source is the candle, creating warm skin tones and deep shadows (chiaroscuro).",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "542",
+        "title": "Rainy Window Reflection",
+        "category": "Photography",
+        "prompt": "View of a city street at night seen through a rain-splattered window. Focus is on the raindrops, city lights are bokeh.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "543",
+        "title": "Sports Stadium",
+        "category": "Photography",
+        "prompt": "Wide shot of a football stadium packed with fans. Floodlights beaming down. Atmosphere is electric.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "544",
+        "title": "Pet Low Angle",
+        "category": "Photography",
+        "prompt": "Low angle shot from the perspective of a dog running through tall grass. Snout is close to the lens. Dynamic motion blur.",
+        "tags": [
+            "gemininanobanana",
+            "photography",
+            "photo",
+            "realistic"
+        ]
+    },
+    {
+        "id": "545",
+        "title": "Engine Cross-Section",
+        "category": "Educational",
+        "prompt": "A technical cutaway diagram of a V8 internal combustion engine. Parts are color-coded: pistons in red, valves in blue. White background.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "546",
+        "title": "Water Cycle",
+        "category": "Educational",
+        "prompt": "An educational illustration showing the water cycle: Evaporation from ocean, condensation in clouds, precipitation on mountains, runoff.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "547",
+        "title": "Solar System",
+        "category": "Educational",
+        "prompt": "A scale-accurate diagram of the solar system. The sun on the left, planets arranged in order. Labels for each planet.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "548",
+        "title": "Guitar Chords",
+        "category": "Educational",
+        "prompt": "A clean infographic sheet showing finger positions for basic guitar chords: G, C, D, and Em. Black grid lines on white.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "549",
+        "title": "Coffee Guide",
+        "category": "Educational",
+        "prompt": "A visual menu style poster comparing espresso drinks: Latte, Cappuccino, Americano. Showing ratios of milk, foam, and coffee.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "550",
+        "title": "Butterfly Life Cycle",
+        "category": "Educational",
+        "prompt": "A circular biological diagram showing the metamorphosis of a Monarch butterfly: Egg, Caterpillar, Chrysalis, Adult Butterfly.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "551",
+        "title": "House Blueprint",
+        "category": "Educational",
+        "prompt": "A 2D architectural floor plan of a modern two-bedroom apartment. Blue lines on white paper style. Labels for 'Kitchen', 'Master Bed'.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "552",
+        "title": "Anatomy of a Flower",
+        "category": "Educational",
+        "prompt": "Botanical illustration of a hibiscus flower with labels pointing to the Stamen, Pistil, Petal, and Sepal.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "553",
+        "title": "History Timeline",
+        "category": "Educational",
+        "prompt": "A horizontal timeline infographic of the Industrial Revolution, marked with key invention dates like the Steam Engine and Telegraph.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "554",
+        "title": "Pyramid of Giza Interior",
+        "category": "Educational",
+        "prompt": "A cross-section illustration of the Great Pyramid showing the King's Chamber, Queen's Chamber, and the Grand Gallery.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "555",
+        "title": "Cell Structure",
+        "category": "Educational",
+        "prompt": "A 3D-style diagram of an animal cell. Organelles like Mitochondria and Nucleus are labeled. Educational textbook style.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "556",
+        "title": "Color Theory Wheel",
+        "category": "Educational",
+        "prompt": "A standard color wheel showing primary, secondary, and tertiary colors. Clean vector graphic style.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "557",
+        "title": "Yoga Salutation",
+        "category": "Educational",
+        "prompt": "A step-by-step sequence illustration of the 'Sun Salutation' yoga flow. Silhouettes of figures in each pose.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "558",
+        "title": "Camera Aperture",
+        "category": "Educational",
+        "prompt": "A visual guide showing aperture sizes from f/1.4 to f/22 and how the iris closes. Labeled with 'Depth of Field' effects.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "559",
+        "title": "Volcano Types",
+        "category": "Educational",
+        "prompt": "A comparison diagram showing three types of volcanoes: Shield, Cinder Cone, and Composite. Earth layers visible underneath.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "560",
+        "title": "Beef Cuts",
+        "category": "Educational",
+        "prompt": "A butcher's chart of a cow silhouette divided into cuts of meat: Rib, Sirloin, Brisket, Chuck. Vintage poster style.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "561",
+        "title": "Knots Guide",
+        "category": "Educational",
+        "prompt": "A visual guide on how to tie essential knots: Bowline, Square Knot, Clove Hitch. Step-by-step rope illustrations.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "562",
+        "title": "Periodic Table Element",
+        "category": "Educational",
+        "prompt": "An infographic card for the element Carbon. Shows atomic number 6, atomic weight, and electron configuration.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "563",
+        "title": "Map of Atlantis",
+        "category": "Educational",
+        "prompt": "A fantasy map of the lost city of Atlantis. concentric rings of water and land, labeled districts, parchment texture.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "564",
+        "title": "Tree Rings",
+        "category": "Educational",
+        "prompt": "A diagram of a tree stump cross-section. Labels for Bark, Cambium, Sapwood, Heartwood, and growth rings indicating age.",
+        "tags": [
+            "gemininanobanana",
+            "educational",
+            "diagram",
+            "infographic"
+        ]
+    },
+    {
+        "id": "565",
+        "title": "Cloud Castle",
+        "category": "Surrealism",
+        "prompt": "A majestic castle made entirely of fluffy white clouds floating in a blue sky. Turrets and towers formed by cumulus shapes.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "566",
+        "title": "Liquid Dress",
+        "category": "Surrealism",
+        "prompt": "A fashion model walking, but her dress is made of flowing liquid water that splashes around her legs. High speed photography.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "567",
+        "title": "Miniature World",
+        "category": "Surrealism",
+        "prompt": "Close-up of a cracked walnut shell. Inside requires a tiny cozy library with miniature books and a fireplace.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "568",
+        "title": "Flying Whales",
+        "category": "Surrealism",
+        "prompt": "A surreal sky where giant humpback whales are swimming among the clouds above a modern city.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "569",
+        "title": "Fruit Animals",
+        "category": "Surrealism",
+        "prompt": "A creative hybrid animal: a tortoise where the shell is a sliced watermelon and the skin is texture of a cantaloupe.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "570",
+        "title": "Invisible Man",
+        "category": "Surrealism",
+        "prompt": "A suit, hat, and shoes walking down the street, but there is no body inside. The clothes retain the shape of a person.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "571",
+        "title": "Light Bulb Forest",
+        "category": "Surrealism",
+        "prompt": "A forest where the trees are giant streetlamps and the 'leaves' are glowing light bulbs. Night time scene.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "572",
+        "title": "Book Portal",
+        "category": "Surrealism",
+        "prompt": "An open book on a table. From the pages, a 3D forest is growing out, with tiny birds flying out of the story.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "573",
+        "title": "Sandglass Ocean",
+        "category": "Surrealism",
+        "prompt": "An hourglass where the top bulb contains a desert and the sand falls into the bottom bulb transforming into a blue ocean.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "574",
+        "title": "Musical Smoke",
+        "category": "Surrealism",
+        "prompt": "A saxophone player where the sound coming out of the horn is visualized as colorful swirling smoke forming musical notes.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "575",
+        "title": "Stone Levitating",
+        "category": "Surrealism",
+        "prompt": "A zen garden where large heavy stones are floating weightlessly in mid-air. Peaceful atmosphere.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "576",
+        "title": "Pencil City",
+        "category": "Surrealism",
+        "prompt": "A cityscape sketch that is coming to life. The bottom half is a pencil drawing, the top half is photorealistic 3D buildings.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "577",
+        "title": "Galaxy Coffee",
+        "category": "Surrealism",
+        "prompt": "A cup of coffee seen from above. The swirl of the milk foam creates a perfect spiral galaxy with stars.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "578",
+        "title": "Zipper Skin",
+        "category": "Surrealism",
+        "prompt": "A surreal portrait where a zipper on the person's skin is open to reveal a robotic interior underneath.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "579",
+        "title": "Origami Zoo",
+        "category": "Surrealism",
+        "prompt": "A park filled with life-sized animals made of folded origami paper. A paper elephant and paper giraffe.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "580",
+        "title": "Chess Battle",
+        "category": "Surrealism",
+        "prompt": "A chess board where the pieces are actually tiny medieval warriors fighting each other. Macro shot.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "581",
+        "title": "Time Melt",
+        "category": "Surrealism",
+        "prompt": "A pocket watch melting over a tree branch in a desert landscape, inspired by Salvador Dali.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "582",
+        "title": "Glass Lion",
+        "category": "Surrealism",
+        "prompt": "A majestic lion made entirely of transparent crystal glass, refracting the light of the savannah sunset.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "583",
+        "title": "Balloon House",
+        "category": "Surrealism",
+        "prompt": "A house being lifted into the sky by thousands of colorful balloons, similar to the movie 'Up'.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "584",
+        "title": "Ladder to Moon",
+        "category": "Surrealism",
+        "prompt": "A wooden ladder extending infinitely upwards into the night sky, leaning against a glowing full moon.",
+        "tags": [
+            "gemininanobanana",
+            "surrealism",
+            "art",
+            "creative"
+        ]
+    },
+    {
+        "id": "585",
+        "title": "Sneaker Splash",
+        "category": "Product",
+        "prompt": "Advertising shot of a red athletic sneaker stepping into a puddle. Water splashes are frozen in time. Dynamic lighting.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "586",
+        "title": "Watch Context",
+        "category": "Product",
+        "prompt": "A luxury silver wristwatch on the wrist of a man in a business suit. Background is a blurred luxury car interior.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "587",
+        "title": "Cosmetic Flatlay",
+        "category": "Product",
+        "prompt": "Top-down view of organized makeup products: lipstick, powder, brush. Pastel pink background. Soft, even lighting.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "588",
+        "title": "Eco Bottle",
+        "category": "Product",
+        "prompt": "A reusable bamboo water bottle resting on a mossy rock by a river. Nature, freshness, eco-friendly vibe.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "589",
+        "title": "Headphone Float",
+        "category": "Product",
+        "prompt": "Wireless headphones floating in mid-air against a colorful abstract background. 3D render style.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "590",
+        "title": "Coffee Bag Mockup",
+        "category": "Product",
+        "prompt": "A blank kraft paper coffee bag standing on a wooden counter. Next to it are scattered coffee beans and a portafilter.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "591",
+        "title": "Logo on Leather",
+        "category": "Product",
+        "prompt": "Close-up of a brown leather wallet. An embossed logo 'GEMINI' is pressed into the leather texture.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "592",
+        "title": "Soda Can Condensation",
+        "category": "Product",
+        "prompt": "Extreme close-up of a cold blue soda can. Water droplets (condensation) beading on the surface. Freshness.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "593",
+        "title": "Furniture Catalog",
+        "category": "Product",
+        "prompt": "A modern mid-century armchair in a minimalist living room. Sunlight streaming in, casting shadows on a rug.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "594",
+        "title": "Apparel Ghost",
+        "category": "Product",
+        "prompt": "A 3D 'ghost mannequin' shot of a denim jacket. The jacket holds its shape as if worn, but no person is visible. White background.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "595",
+        "title": "Jewelry Sparkle",
+        "category": "Product",
+        "prompt": "A diamond engagement ring on a black velvet cushion. Star filter effect on the diamond reflection.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "596",
+        "title": "Tech Desk Setup",
+        "category": "Product",
+        "prompt": "A sleek modern workspace. Laptop, mechanical keyboard, and mouse pad. RGB lighting strip behind the desk.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "597",
+        "title": "Perfume Flowers",
+        "category": "Product",
+        "prompt": "A floral perfume bottle surrounded by fresh jasmine flowers. Soft, romantic lighting.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "598",
+        "title": "Beer Tap",
+        "category": "Product",
+        "prompt": "A cold pint of beer being poured from a tap. Golden liquid, thick foam head. Bar background.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "599",
+        "title": "Chocolate Snap",
+        "category": "Product",
+        "prompt": "A bar of dark chocolate broken in half. Close-up on the snap texture and cocoa dust.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "600",
+        "title": "Sunglasses Reflection",
+        "category": "Product",
+        "prompt": "Close-up of aviator sunglasses on sand. The reflection in the lenses shows the ocean waves.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "601",
+        "title": "Smart Home",
+        "category": "Product",
+        "prompt": "A smart speaker device sitting on a shelf. A cozy living room is visible in the background.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "602",
+        "title": "Backpack Travel",
+        "category": "Product",
+        "prompt": "A rugged travel backpack resting on a rock overlooking a mountain valley. Adventure vibes.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "603",
+        "title": "Skincare Texture",
+        "category": "Product",
+        "prompt": "A smear of white moisturizing cream on a clear glass surface. Creamy texture detail.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
+    },
+    {
+        "id": "604",
+        "title": "Toy Packaging",
+        "category": "Product",
+        "prompt": "A colorful toy box for a robot action figure. 'SUPER BOT' text. Plastic window showing the toy inside.",
+        "tags": [
+            "gemininanobanana",
+            "product",
+            "commercial",
+            "mockup"
+        ]
     }
 ]
